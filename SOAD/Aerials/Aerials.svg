@@ -1,0 +1,912 @@
+<svg width="960.0px" height="655.0px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+<path d="M 0.0 0.0 L 960.0 0.0 L 960.0 655.0 L 0.0 655.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" /><g transform="translate(20.0,20.0)">
+<path d="M 0.0 0.0 L 107.0 0.0 L 107.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 107.0 30.0 M 0.0 40.0 L 107.0 40.0 M 0.0 50.0 L 107.0 50.0 M 0.0 60.0 L 107.0 60.0 M 0.0 70.0 L 107.0 70.0 M 0.0 80.0 L 107.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 21.770428 30.40856 C 22.324902 30.40856 22.82101 30.350195 23.258755 30.20428 C 23.696499 30.058365 23.959145 30.0 24.046692 30.0 C 24.192606 30.0 24.280155 30.029182 24.367702 30.116732 C 24.42607 30.175097 24.455252 30.233463 24.484436 30.321012 C 24.484436 30.379377 24.455254 30.437744 24.42607 30.496109 L 15.933851 40.35992 L 20.924124 40.35992 L 20.924124 36.449417 C 20.924124 36.18677 21.011673 35.95331 21.128403 35.807392 C 21.303501 35.661476 21.478598 35.515564 21.71206 35.4572 C 21.974707 35.340466 22.266537 35.07782 22.645912 34.640076 C 22.937742 34.319065 23.31712 33.706226 23.754864 32.801556 C 23.813229 32.684826 23.900776 32.626457 24.017508 32.626457 C 24.280153 32.626457 24.396885 32.772373 24.426067 33.03502 L 24.426067 40.35992 L 26.55642 40.35992 C 26.848248 40.35992 26.99416 40.505836 27.023344 40.797665 C 27.023344 41.089493 26.87743 41.235405 26.55642 41.235405 L 24.426067 41.235405 L 24.426067 41.468872 C 24.426067 42.28599 24.630348 42.928013 25.009726 43.45331 C 25.447468 43.9786 25.97276 44.270428 26.585602 44.270428 C 26.819065 44.270428 26.935795 44.387157 26.935795 44.62062 C 26.935795 44.854084 26.819065 44.970818 26.585602 44.970818 C 26.147858 44.970818 25.505836 44.91245 24.601166 44.79572 C 23.696497 44.649803 23.054474 44.59144 22.645912 44.59144 C 22.237352 44.59144 21.566147 44.649803 20.69066 44.79572 C 19.815174 44.91245 19.173151 44.970818 18.735407 44.970818 C 18.501945 44.970818 18.385214 44.854084 18.385214 44.62062 C 18.385214 44.387157 18.501945 44.270428 18.735407 44.270428 C 19.348248 44.270428 19.873539 43.9786 20.311283 43.45331 C 20.719843 42.89883 20.924124 42.25681 20.924124 41.468872 L 20.924124 41.235405 L 15.933851 41.235405 C 15.61284 41.235405 15.379376 41.17704 15.233462 41.001945 C 15.087548 40.885212 14.999999 40.710114 14.999999 40.53502 C 14.999999 40.476654 15.145913 40.272373 15.437742 39.92218 C 15.729571 39.571983 16.079765 39.105057 16.488327 38.492218 C 16.488327 38.492218 17.305447 37.20817 17.714006 36.449417 C 17.714006 36.449417 18.472761 34.78599 18.735409 33.706226 C 19.027237 32.65564 19.173151 31.575874 19.173151 30.496109 C 19.173151 30.175097 19.319065 30.029182 19.58171 30.029182 C 19.610893 30.029182 19.75681 30.058365 19.96109 30.11673 C 20.165369 30.175097 20.457197 30.233461 20.77821 30.32101 C 21.128405 30.379377 21.449415 30.40856 21.770428 30.40856 Z" fill="#000000" stroke="none" stroke-width="0.75" />
+<path d="M 21.770428 65.40856 C 22.324902 65.40856 22.82101 65.3502 23.258755 65.20428 C 23.696499 65.058365 23.959145 65.0 24.046692 65.0 C 24.192606 65.0 24.280155 65.02918 24.367702 65.11673 C 24.42607 65.175095 24.455252 65.23346 24.484436 65.321014 C 24.484436 65.37938 24.455254 65.437744 24.42607 65.49611 L 15.933851 75.359924 L 20.924124 75.359924 L 20.924124 71.44942 C 20.924124 71.18677 21.011673 70.95331 21.128403 70.807396 C 21.303501 70.661476 21.478598 70.515564 21.71206 70.4572 C 21.974707 70.34047 22.266537 70.07782 22.645912 69.640076 C 22.937742 69.31907 23.31712 68.70622 23.754864 67.80156 C 23.813229 67.68482 23.900776 67.62646 24.017508 67.62646 C 24.280153 67.62646 24.396885 67.77237 24.426067 68.03502 L 24.426067 75.359924 L 26.55642 75.359924 C 26.848248 75.359924 26.99416 75.50584 27.023344 75.79767 C 27.023344 76.08949 26.87743 76.235405 26.55642 76.235405 L 24.426067 76.235405 L 24.426067 76.46887 C 24.426067 77.28599 24.630348 77.92802 25.009726 78.45331 C 25.447468 78.9786 25.97276 79.270424 26.585602 79.270424 C 26.819065 79.270424 26.935795 79.38716 26.935795 79.62062 C 26.935795 79.85408 26.819065 79.97082 26.585602 79.97082 C 26.147858 79.97082 25.505836 79.91245 24.601166 79.795715 C 23.696497 79.6498 23.054474 79.59144 22.645912 79.59144 C 22.237352 79.59144 21.566147 79.6498 20.69066 79.795715 C 19.815174 79.91245 19.173151 79.97082 18.735407 79.97082 C 18.501945 79.97082 18.385214 79.85408 18.385214 79.62062 C 18.385214 79.38716 18.501945 79.270424 18.735407 79.270424 C 19.348248 79.270424 19.873539 78.9786 20.311283 78.45331 C 20.719843 77.898834 20.924124 77.256805 20.924124 76.46887 L 20.924124 76.235405 L 15.933851 76.235405 C 15.61284 76.235405 15.379376 76.17704 15.233462 76.001945 C 15.087548 75.88521 14.999999 75.71011 14.999999 75.53502 C 14.999999 75.476654 15.145913 75.27237 15.437742 74.92218 C 15.729571 74.57198 16.079765 74.10506 16.488327 73.49222 C 16.488327 73.49222 17.305447 72.20817 17.714006 71.44942 C 17.714006 71.44942 18.472761 69.78599 18.735409 68.70622 C 19.027237 67.65564 19.173151 66.575874 19.173151 65.49611 C 19.173151 65.175095 19.319065 65.02918 19.58171 65.02918 C 19.610893 65.02918 19.75681 65.058365 19.96109 65.11673 C 20.165369 65.175095 20.457197 65.23346 20.77821 65.321014 C 21.128405 65.37938 21.449415 65.40856 21.770428 65.40856 Z" fill="#000000" stroke="none" stroke-width="0.75" />
+<path d="M 58.0 76.25 L 66.0 76.25 L 66.0 83.75 L 58.0 83.75 L 58.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='58.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 58.0 66.25 L 66.0 66.25 L 66.0 73.75 L 58.0 73.75 L 58.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='58.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 58.0 56.25 L 66.0 56.25 L 66.0 63.75 L 58.0 63.75 L 58.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='58.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >8</text></g>
+<path d="M 35.35 36.3 C 35.35 37.15 36.18 38.0 37.0 38.0 C 39.5 38.0 42.0 36.3 42.0 34.65 C 42.0 33.83 41.149998 33.0 40.35 33.0 C 37.85 33.0 35.35 34.65 35.35 36.3 Z" fill="#000000" stroke="none" stroke-width="1.0" />
+<path d="M 42.0 20.0 L 42.0 34.7 Z" fill="none" stroke="#000000" stroke-width="1.0" />
+<text x='43.0' y='36.25' font-family="Default" font-size="10.0" fill="#000000" > = 160</text>
+<text x='21.0' y='48.0' font-family="Default" font-size="10.0" fill="#ff0000" >1</text>
+<path d="M 20.0 50.0 L 23.0 50.0 L 23.0 100.0 L 20.0 100.0 L 20.0 50.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 25.0 50.0 L 26.0 50.0 L 26.0 100.0 L 25.0 100.0 L 25.0 50.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 31.0 71.0 M 29.0 71.0 a 2.0 2.0 0 1 0 4.0 0 2.0 2.0 0 1 0 -4.0 0 M 31.0 79.0 M 29.0 79.0 a 2.0 2.0 0 1 0 4.0 0 2.0 2.0 0 1 0 -4.0 0 Z" fill="#000000" stroke="none" stroke-width="1.0" />
+<path d="M 127.0 50.0 L 127.0 100.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(127.0,20.0)">
+<path d="M 0.0 0.0 L 72.0 0.0 L 72.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 72.0 30.0 M 0.0 40.0 L 72.0 40.0 M 0.0 50.0 L 72.0 50.0 M 0.0 60.0 L 72.0 60.0 M 0.0 70.0 L 72.0 70.0 M 0.0 80.0 L 72.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >8</text></g>
+<text x='128.0' y='48.0' font-family="Default" font-size="10.0" fill="#ff0000" >2</text>
+<path d="M 127.0 50.0 L 127.0 100.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 199.0 50.0 L 199.0 100.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(199.0,20.0)">
+<path d="M 0.0 0.0 L 147.0 0.0 L 147.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 147.0 30.0 M 0.0 40.0 L 147.0 40.0 M 0.0 50.0 L 147.0 50.0 M 0.0 60.0 L 147.0 60.0 M 0.0 70.0 L 147.0 70.0 M 0.0 80.0 L 147.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 27.0 85.0 L 27.0 105.0 M 27.0 105.0 L 47.38095 105.0 L 47.38095 107.0 L 27.0 107.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='45.38095' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 43.38095 66.25 L 51.38095 66.25 L 51.38095 73.75 L 43.38095 73.75 L 43.38095 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='43.38095' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='45.38095' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 43.38095 56.25 L 51.38095 56.25 L 51.38095 63.75 L 43.38095 63.75 L 43.38095 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='43.38095' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='45.38095' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 43.38095 76.25 L 51.38095 76.25 L 51.38095 83.75 L 43.38095 83.75 L 43.38095 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='43.38095' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 47.38095 85.0 L 47.38095 105.0 M 27.0 105.0 L 47.38095 105.0 L 47.38095 107.0 L 27.0 107.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='65.7619' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 63.7619 66.25 L 71.7619 66.25 L 71.7619 73.75 L 63.7619 73.75 L 63.7619 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='63.7619' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='65.7619' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 63.7619 56.25 L 71.7619 56.25 L 71.7619 63.75 L 63.7619 63.75 L 63.7619 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='63.7619' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='65.7619' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 63.7619 76.25 L 71.7619 76.25 L 71.7619 83.75 L 63.7619 83.75 L 63.7619 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='63.7619' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 67.7619 85.0 L 67.7619 105.0 M 67.7619 105.0 L 88.14285 105.0 L 88.14285 107.0 L 67.7619 107.0 L 67.7619 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 84.14285 66.25 L 92.14285 66.25 L 92.14285 73.75 L 84.14285 73.75 L 84.14285 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='84.14285' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 84.14285 56.25 L 92.14285 56.25 L 92.14285 63.75 L 84.14285 63.75 L 84.14285 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='84.14285' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='86.14285' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 84.14285 76.25 L 92.14285 76.25 L 92.14285 83.75 L 84.14285 83.75 L 84.14285 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='84.14285' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 88.14285 85.0 L 88.14285 105.0 M 67.7619 105.0 L 88.14285 105.0 L 88.14285 107.0 L 67.7619 107.0 L 67.7619 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 101.02381 66.25 L 116.02381 66.25 L 116.02381 73.75 L 101.02381 73.75 L 101.02381 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='101.02381' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >10</text>
+<path d="M 101.02381 46.25 L 116.02381 46.25 L 116.02381 53.75 L 101.02381 53.75 L 101.02381 46.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='101.02381' y='53.75' font-family="Default" font-size="10.0" fill="#404040" >12</text>
+<path d="M 108.52381 95.0 L 108.52381 105.0 Z" fill="none" stroke="#404040" stroke-width="1.0" /></g>
+<text x='200.0' y='48.0' font-family="Default" font-size="10.0" fill="#ff0000" >3</text>
+<path d="M 199.0 50.0 L 199.0 100.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 346.0 50.0 L 346.0 100.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(346.0,20.0)">
+<path d="M 0.0 0.0 L 147.0 0.0 L 147.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 147.0 30.0 M 0.0 40.0 L 147.0 40.0 M 0.0 50.0 L 147.0 50.0 M 0.0 60.0 L 147.0 60.0 M 0.0 70.0 L 147.0 70.0 M 0.0 80.0 L 147.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 27.0 85.0 L 27.0 105.0 M 27.0 105.0 L 47.38095 105.0 L 47.38095 107.0 L 27.0 107.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='45.38095' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 43.38095 66.25 L 51.38095 66.25 L 51.38095 73.75 L 43.38095 73.75 L 43.38095 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='43.38095' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='45.38095' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 43.38095 56.25 L 51.38095 56.25 L 51.38095 63.75 L 43.38095 63.75 L 43.38095 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='43.38095' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='45.38095' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 43.38095 76.25 L 51.38095 76.25 L 51.38095 83.75 L 43.38095 83.75 L 43.38095 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='43.38095' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 47.38095 85.0 L 47.38095 105.0 M 27.0 105.0 L 47.38095 105.0 L 47.38095 107.0 L 27.0 107.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='65.7619' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 63.7619 66.25 L 71.7619 66.25 L 71.7619 73.75 L 63.7619 73.75 L 63.7619 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='63.7619' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='65.7619' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 63.7619 56.25 L 71.7619 56.25 L 71.7619 63.75 L 63.7619 63.75 L 63.7619 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='63.7619' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='65.7619' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 63.7619 76.25 L 71.7619 76.25 L 71.7619 83.75 L 63.7619 83.75 L 63.7619 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='63.7619' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 67.7619 85.0 L 67.7619 105.0 M 67.7619 105.0 L 88.14285 105.0 L 88.14285 107.0 L 67.7619 107.0 L 67.7619 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='86.14285' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 84.14285 66.25 L 92.14285 66.25 L 92.14285 73.75 L 84.14285 73.75 L 84.14285 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='84.14285' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='86.14285' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 84.14285 56.25 L 92.14285 56.25 L 92.14285 63.75 L 84.14285 63.75 L 84.14285 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='84.14285' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='86.14285' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 84.14285 76.25 L 92.14285 76.25 L 92.14285 83.75 L 84.14285 83.75 L 84.14285 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='84.14285' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 88.14285 85.0 L 88.14285 105.0 M 67.7619 105.0 L 88.14285 105.0 L 88.14285 107.0 L 67.7619 107.0 L 67.7619 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 104.52381 66.25 L 112.52381 66.25 L 112.52381 73.75 L 104.52381 73.75 L 104.52381 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='104.52381' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 101.02381 46.25 L 116.02381 46.25 L 116.02381 53.75 L 101.02381 53.75 L 101.02381 46.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='101.02381' y='53.75' font-family="Default" font-size="10.0" fill="#404040" >10</text>
+<path d="M 108.52381 95.0 L 108.52381 105.0 Z" fill="none" stroke="#404040" stroke-width="1.0" /></g>
+<text x='347.0' y='48.0' font-family="Default" font-size="10.0" fill="#ff0000" >4</text>
+<path d="M 346.0 50.0 L 346.0 100.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 493.0 50.0 L 493.0 100.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(493.0,20.0)">
+<path d="M 0.0 0.0 L 146.0 0.0 L 146.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 146.0 30.0 M 0.0 40.0 L 146.0 40.0 M 0.0 50.0 L 146.0 50.0 M 0.0 60.0 L 146.0 60.0 M 0.0 70.0 L 146.0 70.0 M 0.0 80.0 L 146.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 27.0 85.0 L 27.0 105.0 M 27.0 105.0 L 47.190475 105.0 L 47.190475 107.0 L 27.0 107.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='45.190475' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 43.190475 66.25 L 51.190475 66.25 L 51.190475 73.75 L 43.190475 73.75 L 43.190475 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='43.190475' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='45.190475' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 43.190475 56.25 L 51.190475 56.25 L 51.190475 63.75 L 43.190475 63.75 L 43.190475 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='43.190475' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='45.190475' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 43.190475 76.25 L 51.190475 76.25 L 51.190475 83.75 L 43.190475 83.75 L 43.190475 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='43.190475' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 47.190475 85.0 L 47.190475 105.0 M 27.0 105.0 L 47.190475 105.0 L 47.190475 107.0 L 27.0 107.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='65.38095' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 63.38095 66.25 L 71.38095 66.25 L 71.38095 73.75 L 63.38095 73.75 L 63.38095 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='63.38095' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='65.38095' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 63.38095 56.25 L 71.38095 56.25 L 71.38095 63.75 L 63.38095 63.75 L 63.38095 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='63.38095' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='65.38095' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 63.38095 76.25 L 71.38095 76.25 L 71.38095 83.75 L 63.38095 83.75 L 63.38095 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='63.38095' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 67.38095 85.0 L 67.38095 105.0 M 67.38095 105.0 L 87.57143 105.0 L 87.57143 107.0 L 67.38095 107.0 L 67.38095 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='85.57143' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 83.57143 66.25 L 91.57143 66.25 L 91.57143 73.75 L 83.57143 73.75 L 83.57143 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='83.57143' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='85.57143' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 83.57143 56.25 L 91.57143 56.25 L 91.57143 63.75 L 83.57143 63.75 L 83.57143 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='83.57143' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='85.57143' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 83.57143 76.25 L 91.57143 76.25 L 91.57143 83.75 L 83.57143 83.75 L 83.57143 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='83.57143' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 87.57143 85.0 L 87.57143 105.0 M 67.38095 105.0 L 87.57143 105.0 L 87.57143 107.0 L 67.38095 107.0 L 67.38095 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 103.7619 66.25 L 111.7619 66.25 L 111.7619 73.75 L 103.7619 73.75 L 103.7619 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='103.7619' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 103.7619 46.25 L 111.7619 46.25 L 111.7619 53.75 L 103.7619 53.75 L 103.7619 46.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='103.7619' y='53.75' font-family="Default" font-size="10.0" fill="#404040" >9</text>
+<path d="M 107.7619 95.0 L 107.7619 105.0 Z" fill="none" stroke="#404040" stroke-width="1.0" /></g>
+<text x='494.0' y='48.0' font-family="Default" font-size="10.0" fill="#ff0000" >5</text>
+<path d="M 493.0 50.0 L 493.0 100.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 639.0 50.0 L 639.0 100.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(639.0,20.0)">
+<path d="M 0.0 0.0 L 167.0 0.0 L 167.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 167.0 30.0 M 0.0 40.0 L 167.0 40.0 M 0.0 50.0 L 167.0 50.0 M 0.0 60.0 L 167.0 60.0 M 0.0 70.0 L 167.0 70.0 M 0.0 80.0 L 167.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 27.0 85.0 L 27.0 105.0 M 27.0 105.0 L 47.32 105.0 L 47.32 107.0 L 27.0 107.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='45.32' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 43.32 56.25 L 51.32 56.25 L 51.32 63.75 L 43.32 63.75 L 43.32 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='43.32' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='45.32' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 43.32 66.25 L 51.32 66.25 L 51.32 73.75 L 43.32 73.75 L 43.32 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='43.32' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='45.32' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 43.32 76.25 L 51.32 76.25 L 51.32 83.75 L 43.32 83.75 L 43.32 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='43.32' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 47.32 85.0 L 47.32 105.0 M 27.0 105.0 L 47.32 105.0 L 47.32 107.0 L 27.0 107.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='65.64' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 63.64 56.25 L 71.64 56.25 L 71.64 63.75 L 63.64 63.75 L 63.64 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='63.64' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='65.64' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 63.64 66.25 L 71.64 66.25 L 71.64 73.75 L 63.64 73.75 L 63.64 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='63.64' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='65.64' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 63.64 76.25 L 71.64 76.25 L 71.64 83.75 L 63.64 83.75 L 63.64 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='63.64' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 67.64 85.0 L 67.64 105.0 M 67.64 105.0 L 87.96 105.0 L 87.96 107.0 L 67.64 107.0 L 67.64 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='85.96' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 83.96 56.25 L 91.96 56.25 L 91.96 63.75 L 83.96 63.75 L 83.96 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='83.96' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='85.96' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 83.96 66.25 L 91.96 66.25 L 91.96 73.75 L 83.96 73.75 L 83.96 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='83.96' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='85.96' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 83.96 76.25 L 91.96 76.25 L 91.96 83.75 L 83.96 83.75 L 83.96 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='83.96' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 87.96 85.0 L 87.96 105.0 M 67.64 105.0 L 87.96 105.0 L 87.96 107.0 L 67.64 107.0 L 67.64 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 104.28 66.25 L 112.28 66.25 L 112.28 73.75 L 104.28 73.75 L 104.28 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='104.28' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >5</text>
+<path d="M 104.28 46.25 L 112.28 46.25 L 112.28 53.75 L 104.28 53.75 L 104.28 46.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='104.28' y='53.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 108.28 95.0 L 108.28 105.0 Z" fill="none" stroke="#404040" stroke-width="1.0" /></g>
+<text x='640.0' y='48.0' font-family="Default" font-size="10.0" fill="#ff0000" >6</text>
+<path d="M 639.0 50.0 L 639.0 100.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 800.0 50.0 L 801.0 50.0 L 801.0 100.0 L 800.0 100.0 L 800.0 50.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 803.0 50.0 L 806.0 50.0 L 806.0 100.0 L 803.0 100.0 L 803.0 50.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 795.0 71.0 M 793.0 71.0 a 2.0 2.0 0 1 0 4.0 0 2.0 2.0 0 1 0 -4.0 0 M 795.0 79.0 M 793.0 79.0 a 2.0 2.0 0 1 0 4.0 0 2.0 2.0 0 1 0 -4.0 0 Z" fill="#000000" stroke="none" stroke-width="1.0" />
+<text x='787.0' y='48.0' font-family="Default" font-size="10.0" fill="#000000" >x3</text><g transform="translate(806.0,20.0)">
+<path d="M 0.0 0.0 L 72.0 0.0 L 72.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 72.0 30.0 M 0.0 40.0 L 72.0 40.0 M 0.0 50.0 L 72.0 50.0 M 0.0 60.0 L 72.0 60.0 M 0.0 70.0 L 72.0 70.0 M 0.0 80.0 L 72.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >8</text></g>
+<text x='807.0' y='48.0' font-family="Default" font-size="10.0" fill="#ff0000" >7</text>
+<path d="M 806.0 50.0 L 806.0 100.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 878.0 50.0 L 878.0 100.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(878.0,20.0)">
+<path d="M 0.0 0.0 L 72.0 0.0 L 72.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 72.0 30.0 M 0.0 40.0 L 72.0 40.0 M 0.0 50.0 L 72.0 50.0 M 0.0 60.0 L 72.0 60.0 M 0.0 70.0 L 72.0 70.0 M 0.0 80.0 L 72.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >8</text></g>
+<text x='879.0' y='48.0' font-family="Default" font-size="10.0" fill="#ff0000" >8</text>
+<path d="M 878.0 50.0 L 878.0 100.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 950.0 50.0 L 950.0 100.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(20.0,147.0)">
+<path d="M 0.0 0.0 L 114.0 0.0 L 114.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 114.0 30.0 M 0.0 40.0 L 114.0 40.0 M 0.0 50.0 L 114.0 50.0 M 0.0 60.0 L 114.0 60.0 M 0.0 70.0 L 114.0 70.0 M 0.0 80.0 L 114.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >3</text>
+<path d="M 27.0 85.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 31.0 104.0 M 29.5 104.0 a 1.5 1.5 0 1 0 3.0 0 1.5 1.5 0 1 0 -3.0 0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 47.666664 76.25 L 55.666664 76.25 L 55.666664 83.75 L 47.666664 83.75 L 47.666664 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='47.666664' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >2</text>
+<path d="M 51.666664 85.0 L 51.666664 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 55.666664 104.0 M 54.166664 104.0 a 1.5 1.5 0 1 0 3.0 0 1.5 1.5 0 1 0 -3.0 0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 72.33333 76.25 L 80.33333 76.25 L 80.33333 83.75 L 72.33333 83.75 L 72.33333 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='72.33333' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 76.33333 85.0 L 76.33333 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" /></g>
+<text x='21.0' y='175.0' font-family="Default" font-size="10.0" fill="#ff0000" >9</text>
+<path d="M 20.0 177.0 L 23.0 177.0 L 23.0 227.0 L 20.0 227.0 L 20.0 177.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 25.0 177.0 L 26.0 177.0 L 26.0 227.0 L 25.0 227.0 L 25.0 177.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 31.0 198.0 M 29.0 198.0 a 2.0 2.0 0 1 0 4.0 0 2.0 2.0 0 1 0 -4.0 0 M 31.0 206.0 M 29.0 206.0 a 2.0 2.0 0 1 0 4.0 0 2.0 2.0 0 1 0 -4.0 0 Z" fill="#000000" stroke="none" stroke-width="1.0" />
+<path d="M 134.0 177.0 L 134.0 227.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(134.0,147.0)">
+<path d="M 0.0 0.0 L 115.0 0.0 L 115.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 115.0 30.0 M 0.0 40.0 L 115.0 40.0 M 0.0 50.0 L 115.0 50.0 M 0.0 60.0 L 115.0 60.0 M 0.0 70.0 L 115.0 70.0 M 0.0 80.0 L 115.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 7.0 85.0 C 7.0 88.333336 27.0 88.333336 27.0 85.0 C 27.0 90.333336 7.0 90.333336 7.0 85.0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 27.0 85.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 48.0 76.25 L 56.0 76.25 L 56.0 83.75 L 48.0 83.75 L 48.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='48.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >5</text>
+<path d="M 52.0 85.0 L 52.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 56.0 104.0 M 54.5 104.0 a 1.5 1.5 0 1 0 3.0 0 1.5 1.5 0 1 0 -3.0 0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 73.0 76.25 L 81.0 76.25 L 81.0 83.75 L 73.0 83.75 L 73.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='73.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >3</text>
+<path d="M 77.0 85.0 L 77.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 81.0 104.0 M 79.5 104.0 a 1.5 1.5 0 1 0 3.0 0 1.5 1.5 0 1 0 -3.0 0 Z" fill="#404040" stroke="none" stroke-width="0.75" /></g>
+<text x='135.0' y='175.0' font-family="Default" font-size="10.0" fill="#ff0000" >10</text>
+<path d="M 134.0 177.0 L 134.0 227.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 249.0 177.0 L 249.0 227.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(249.0,147.0)">
+<path d="M 0.0 0.0 L 134.0 0.0 L 134.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 134.0 30.0 M 0.0 40.0 L 134.0 40.0 M 0.0 50.0 L 134.0 50.0 M 0.0 60.0 L 134.0 60.0 M 0.0 70.0 L 134.0 70.0 M 0.0 80.0 L 134.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >2</text>
+<path d="M 27.0 85.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 32.0 85.0 C 32.0 88.333336 50.783134 88.333336 50.783134 85.0 C 50.783134 90.333336 32.0 90.333336 32.0 85.0 Z" fill="#404040" stroke="none" stroke-width="1.0" />
+<path d="M 50.783134 85.0 L 50.783134 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 70.56627 76.25 L 78.56627 76.25 L 78.56627 83.75 L 70.56627 83.75 L 70.56627 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='70.56627' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >3</text>
+<path d="M 74.56627 85.0 L 74.56627 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 78.56627 104.0 M 77.06627 104.0 a 1.5 1.5 0 1 0 3.0 0 1.5 1.5 0 1 0 -3.0 0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 94.349396 76.25 L 102.349396 76.25 L 102.349396 83.75 L 94.349396 83.75 L 94.349396 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='94.349396' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >5</text>
+<path d="M 98.349396 85.0 L 98.349396 105.0 M 98.349396 105.0 L 104.349396 105.0 L 104.349396 107.0 L 98.349396 107.0 L 98.349396 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" /></g>
+<text x='250.0' y='175.0' font-family="Default" font-size="10.0" fill="#ff0000" >11</text>
+<path d="M 249.0 177.0 L 249.0 227.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 383.0 177.0 L 383.0 227.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(383.0,147.0)">
+<path d="M 0.0 0.0 L 132.0 0.0 L 132.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 132.0 30.0 M 0.0 40.0 L 132.0 40.0 M 0.0 50.0 L 132.0 50.0 M 0.0 60.0 L 132.0 60.0 M 0.0 70.0 L 132.0 70.0 M 0.0 80.0 L 132.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 7.0 85.0 C 7.0 88.333336 27.0 88.333336 27.0 85.0 C 27.0 90.333336 7.0 90.333336 7.0 85.0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 27.0 85.0 L 27.0 105.0 M 27.0 105.0 L 33.0 105.0 L 33.0 107.0 L 27.0 107.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 31.0 100.0 M 29.5 100.0 a 1.5 1.5 0 1 0 3.0 0 1.5 1.5 0 1 0 -3.0 0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 45.71605 76.25 L 53.71605 76.25 L 53.71605 83.75 L 45.71605 83.75 L 45.71605 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='45.71605' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 49.71605 85.0 L 49.71605 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 53.71605 104.0 M 52.21605 104.0 a 1.5 1.5 0 1 0 3.0 0 1.5 1.5 0 1 0 -3.0 0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 69.5679 76.25 L 77.5679 76.25 L 77.5679 83.75 L 69.5679 83.75 L 69.5679 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='69.5679' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 73.5679 85.0 L 73.5679 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 77.5679 104.0 M 76.0679 104.0 a 1.5 1.5 0 1 0 3.0 0 1.5 1.5 0 1 0 -3.0 0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 93.419754 76.25 L 101.419754 76.25 L 101.419754 83.75 L 93.419754 83.75 L 93.419754 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='93.419754' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 97.419754 85.0 L 97.419754 105.0 M 97.419754 100.0 L 103.419754 100.0 L 103.419754 102.0 L 97.419754 102.0 L 97.419754 100.0 M 97.419754 105.0 L 103.419754 105.0 L 103.419754 107.0 L 97.419754 107.0 L 97.419754 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" /></g>
+<text x='384.0' y='175.0' font-family="Default" font-size="10.0" fill="#ff0000" >12</text>
+<path d="M 383.0 177.0 L 383.0 227.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 515.0 177.0 L 515.0 227.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(515.0,147.0)">
+<path d="M 0.0 0.0 L 134.0 0.0 L 134.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 134.0 30.0 M 0.0 40.0 L 134.0 40.0 M 0.0 50.0 L 134.0 50.0 M 0.0 60.0 L 134.0 60.0 M 0.0 70.0 L 134.0 70.0 M 0.0 80.0 L 134.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 7.0 85.0 C 7.0 88.333336 27.0 88.333336 27.0 85.0 C 27.0 90.333336 7.0 90.333336 7.0 85.0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 27.0 85.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 46.783134 76.25 L 54.783134 76.25 L 54.783134 83.75 L 46.783134 83.75 L 46.783134 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='46.783134' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >5</text>
+<path d="M 50.783134 85.0 L 50.783134 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 70.56627 76.25 L 78.56627 76.25 L 78.56627 83.75 L 70.56627 83.75 L 70.56627 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='70.56627' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >3</text>
+<path d="M 74.56627 85.0 L 74.56627 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 78.56627 104.0 M 77.06627 104.0 a 1.5 1.5 0 1 0 3.0 0 1.5 1.5 0 1 0 -3.0 0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 94.349396 76.25 L 102.349396 76.25 L 102.349396 83.75 L 94.349396 83.75 L 94.349396 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='94.349396' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >2</text>
+<path d="M 98.349396 85.0 L 98.349396 105.0 M 98.349396 105.0 L 104.349396 105.0 L 104.349396 107.0 L 98.349396 107.0 L 98.349396 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" /></g>
+<text x='516.0' y='175.0' font-family="Default" font-size="10.0" fill="#ff0000" >13</text>
+<path d="M 515.0 177.0 L 515.0 227.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 649.0 177.0 L 649.0 227.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(649.0,147.0)">
+<path d="M 0.0 0.0 L 139.0 0.0 L 139.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 139.0 30.0 M 0.0 40.0 L 139.0 40.0 M 0.0 50.0 L 139.0 50.0 M 0.0 60.0 L 139.0 60.0 M 0.0 70.0 L 139.0 70.0 M 0.0 80.0 L 139.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 7.0 85.0 C 7.0 88.333336 27.0 88.333336 27.0 85.0 C 27.0 90.333336 7.0 90.333336 7.0 85.0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 27.0 85.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 46.896553 76.25 L 54.896553 76.25 L 54.896553 83.75 L 46.896553 83.75 L 46.896553 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='46.896553' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 50.896553 95.0 L 50.896553 105.0 Z" fill="none" stroke="#404040" stroke-width="1.0" />
+<path d="M 78.448235 47.047268 C 78.54277 47.0 78.6373 47.0 78.73185 47.023636 C 78.80275 47.0709 82.46597 51.419518 82.56052 51.608585 C 82.72595 51.915825 82.678696 52.223064 82.44234 52.601204 C 82.25328 52.861176 81.87514 53.239315 81.16614 53.830162 C 80.81161 54.113766 80.48074 54.421005 80.409836 54.491905 C 79.677185 55.271824 79.511765 56.45351 79.937164 57.35159 C 80.07898 57.65883 80.14986 57.729736 80.97706 58.67508 C 82.489624 60.447617 82.41872 60.376713 82.41872 60.518524 C 82.41872 60.66031 82.2769 60.80212 82.13512 60.825764 C 82.01694 60.825764 81.9224 60.77849 81.75697 60.61305 C 81.16614 60.02221 79.819 59.5968 79.08635 59.76223 C 78.73185 59.833138 78.54277 59.974945 78.37735 60.30581 C 78.28279 60.542145 78.21189 60.825764 78.18827 61.203888 C 78.16463 61.723846 78.25918 62.26742 78.42461 62.787354 C 78.54277 63.118237 78.61368 63.307312 78.77911 63.543648 C 78.92092 63.73272 78.92092 63.803608 78.80275 63.874508 C 78.708206 63.921787 78.66094 63.89815 78.448235 63.638172 C 77.59743 62.551018 76.817505 60.991196 76.55754 59.833138 C 76.344826 59.005962 76.43938 58.438744 76.77023 58.202408 C 76.93567 58.10788 77.10112 58.08424 77.45562 58.08424 C 78.14101 58.1315 79.10999 58.39148 80.055336 58.793243 L 80.36258 58.935055 L 79.062706 57.39885 C 77.07748 55.059116 77.00657 54.964584 76.93567 54.822777 C 76.864784 54.63371 76.84114 54.444637 76.91205 54.231934 C 77.03021 53.853794 77.36108 53.475655 78.3537 52.64847 C 78.708206 52.36487 79.01544 52.08126 79.08635 52.033993 C 79.62993 51.44315 79.88991 50.615967 79.79536 49.836052 C 79.74809 49.57608 79.62993 49.174305 79.48811 48.9616 C 79.41722 48.843433 79.13361 48.48893 78.85001 48.134422 C 78.566414 47.803547 78.30644 47.49631 78.28279 47.449043 C 78.21189 47.30724 78.28279 47.118168 78.448235 47.047268 Z" fill="#404040" stroke="none" stroke-width="1.0" /></g>
+<text x='650.0' y='175.0' font-family="Default" font-size="10.0" fill="#ff0000" >14</text>
+<path d="M 649.0 177.0 L 649.0 227.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 782.0 177.0 L 783.0 177.0 L 783.0 227.0 L 782.0 227.0 L 782.0 177.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 785.0 177.0 L 788.0 177.0 L 788.0 227.0 L 785.0 227.0 L 785.0 177.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 777.0 198.0 M 775.0 198.0 a 2.0 2.0 0 1 0 4.0 0 2.0 2.0 0 1 0 -4.0 0 M 777.0 206.0 M 775.0 206.0 a 2.0 2.0 0 1 0 4.0 0 2.0 2.0 0 1 0 -4.0 0 Z" fill="#000000" stroke="none" stroke-width="1.0" />
+<text x='769.0' y='175.0' font-family="Default" font-size="10.0" fill="#000000" >x2</text><g transform="translate(788.0,147.0)">
+<path d="M 0.0 0.0 L 81.0 0.0 L 81.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 81.0 30.0 M 0.0 40.0 L 81.0 40.0 M 0.0 50.0 L 81.0 50.0 M 0.0 60.0 L 81.0 60.0 M 0.0 70.0 L 81.0 70.0 M 0.0 80.0 L 81.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >8</text></g>
+<text x='789.0' y='175.0' font-family="Default" font-size="10.0" fill="#ff0000" >15</text>
+<path d="M 788.0 177.0 L 791.0 177.0 L 791.0 227.0 L 788.0 227.0 L 788.0 177.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 793.0 177.0 L 794.0 177.0 L 794.0 227.0 L 793.0 227.0 L 793.0 177.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 799.0 198.0 M 797.0 198.0 a 2.0 2.0 0 1 0 4.0 0 2.0 2.0 0 1 0 -4.0 0 M 799.0 206.0 M 797.0 206.0 a 2.0 2.0 0 1 0 4.0 0 2.0 2.0 0 1 0 -4.0 0 Z" fill="#000000" stroke="none" stroke-width="1.0" />
+<path d="M 869.0 177.0 L 869.0 227.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(869.0,147.0)">
+<path d="M 0.0 0.0 L 81.0 0.0 L 81.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 81.0 30.0 M 0.0 40.0 L 81.0 40.0 M 0.0 50.0 L 81.0 50.0 M 0.0 60.0 L 81.0 60.0 M 0.0 70.0 L 81.0 70.0 M 0.0 80.0 L 81.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >8</text></g>
+<text x='870.0' y='175.0' font-family="Default" font-size="10.0" fill="#ff0000" >16</text>
+<path d="M 869.0 177.0 L 869.0 227.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 950.0 177.0 L 950.0 227.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(20.0,274.0)">
+<path d="M 0.0 0.0 L 154.0 0.0 L 154.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 154.0 30.0 M 0.0 40.0 L 154.0 40.0 M 0.0 50.0 L 154.0 50.0 M 0.0 60.0 L 154.0 60.0 M 0.0 70.0 L 154.0 70.0 M 0.0 80.0 L 154.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 27.0 85.0 L 27.0 105.0 M 27.0 105.0 L 48.714287 105.0 L 48.714287 107.0 L 27.0 107.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='46.714287' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 44.714287 66.25 L 52.714287 66.25 L 52.714287 73.75 L 44.714287 73.75 L 44.714287 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.714287' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='46.714287' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 44.714287 56.25 L 52.714287 56.25 L 52.714287 63.75 L 44.714287 63.75 L 44.714287 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.714287' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='46.714287' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 44.714287 76.25 L 52.714287 76.25 L 52.714287 83.75 L 44.714287 83.75 L 44.714287 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.714287' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 48.714287 85.0 L 48.714287 105.0 M 27.0 105.0 L 48.714287 105.0 L 48.714287 107.0 L 27.0 107.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='68.42857' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 66.42857 66.25 L 74.42857 66.25 L 74.42857 73.75 L 66.42857 73.75 L 66.42857 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.42857' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='68.42857' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 66.42857 56.25 L 74.42857 56.25 L 74.42857 63.75 L 66.42857 63.75 L 66.42857 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.42857' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='68.42857' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 66.42857 76.25 L 74.42857 76.25 L 74.42857 83.75 L 66.42857 83.75 L 66.42857 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.42857' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 70.42857 85.0 L 70.42857 105.0 M 70.42857 105.0 L 92.14286 105.0 L 92.14286 107.0 L 70.42857 107.0 L 70.42857 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 88.14286 66.25 L 96.14286 66.25 L 96.14286 73.75 L 88.14286 73.75 L 88.14286 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='88.14286' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 88.14286 56.25 L 96.14286 56.25 L 96.14286 63.75 L 88.14286 63.75 L 88.14286 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='88.14286' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='90.14286' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 88.14286 76.25 L 96.14286 76.25 L 96.14286 83.75 L 88.14286 83.75 L 88.14286 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='88.14286' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 92.14286 85.0 L 92.14286 105.0 M 70.42857 105.0 L 92.14286 105.0 L 92.14286 107.0 L 70.42857 107.0 L 70.42857 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 106.35714 56.25 L 121.35714 56.25 L 121.35714 63.75 L 106.35714 63.75 L 106.35714 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='106.35714' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >10</text>
+<path d="M 106.35714 36.25 L 121.35714 36.25 L 121.35714 43.75 L 106.35714 43.75 L 106.35714 36.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='106.35714' y='43.75' font-family="Default" font-size="10.0" fill="#404040" >12</text>
+<path d="M 113.85714 95.0 L 113.85714 105.0 Z" fill="none" stroke="#404040" stroke-width="1.0" /></g>
+<text x='21.0' y='302.0' font-family="Default" font-size="10.0" fill="#ff0000" >17</text>
+<path d="M 20.0 304.0 L 20.0 354.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 174.0 304.0 L 174.0 354.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(174.0,274.0)">
+<path d="M 0.0 0.0 L 155.0 0.0 L 155.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 155.0 30.0 M 0.0 40.0 L 155.0 40.0 M 0.0 50.0 L 155.0 50.0 M 0.0 60.0 L 155.0 60.0 M 0.0 70.0 L 155.0 70.0 M 0.0 80.0 L 155.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 27.0 85.0 L 27.0 105.0 M 27.0 105.0 L 48.904762 105.0 L 48.904762 107.0 L 27.0 107.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='46.904762' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 44.904762 66.25 L 52.904762 66.25 L 52.904762 73.75 L 44.904762 73.75 L 44.904762 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.904762' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='46.904762' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 44.904762 56.25 L 52.904762 56.25 L 52.904762 63.75 L 44.904762 63.75 L 44.904762 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.904762' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='46.904762' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 44.904762 76.25 L 52.904762 76.25 L 52.904762 83.75 L 44.904762 83.75 L 44.904762 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.904762' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 48.904762 85.0 L 48.904762 105.0 M 27.0 105.0 L 48.904762 105.0 L 48.904762 107.0 L 27.0 107.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='68.809525' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 66.809525 66.25 L 74.809525 66.25 L 74.809525 73.75 L 66.809525 73.75 L 66.809525 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.809525' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='68.809525' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 66.809525 56.25 L 74.809525 56.25 L 74.809525 63.75 L 66.809525 63.75 L 66.809525 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.809525' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='68.809525' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 66.809525 76.25 L 74.809525 76.25 L 74.809525 83.75 L 66.809525 83.75 L 66.809525 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.809525' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 70.809525 85.0 L 70.809525 105.0 M 70.809525 105.0 L 92.71429 105.0 L 92.71429 107.0 L 70.809525 107.0 L 70.809525 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='90.71429' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 88.71429 66.25 L 96.71429 66.25 L 96.71429 73.75 L 88.71429 73.75 L 88.71429 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='88.71429' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='90.71429' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 88.71429 56.25 L 96.71429 56.25 L 96.71429 63.75 L 88.71429 63.75 L 88.71429 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='88.71429' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='90.71429' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 88.71429 76.25 L 96.71429 76.25 L 96.71429 83.75 L 88.71429 83.75 L 88.71429 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='88.71429' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 92.71429 85.0 L 92.71429 105.0 M 70.809525 105.0 L 92.71429 105.0 L 92.71429 107.0 L 70.809525 107.0 L 70.809525 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 107.11905 36.25 L 122.11905 36.25 L 122.11905 43.75 L 107.11905 43.75 L 107.11905 36.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='107.11905' y='43.75' font-family="Default" font-size="10.0" fill="#404040" >10</text>
+<path d="M 110.61905 56.25 L 118.61905 56.25 L 118.61905 63.75 L 110.61905 63.75 L 110.61905 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='110.61905' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 114.61905 95.0 L 114.61905 105.0 Z" fill="none" stroke="#404040" stroke-width="1.0" /></g>
+<text x='175.0' y='302.0' font-family="Default" font-size="10.0" fill="#ff0000" >18</text>
+<path d="M 174.0 304.0 L 174.0 354.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 329.0 304.0 L 329.0 354.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(329.0,274.0)">
+<path d="M 0.0 0.0 L 154.0 0.0 L 154.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 154.0 30.0 M 0.0 40.0 L 154.0 40.0 M 0.0 50.0 L 154.0 50.0 M 0.0 60.0 L 154.0 60.0 M 0.0 70.0 L 154.0 70.0 M 0.0 80.0 L 154.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 27.0 85.0 L 27.0 105.0 M 27.0 105.0 L 48.714287 105.0 L 48.714287 107.0 L 27.0 107.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='46.714287' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 44.714287 66.25 L 52.714287 66.25 L 52.714287 73.75 L 44.714287 73.75 L 44.714287 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.714287' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='46.714287' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 44.714287 56.25 L 52.714287 56.25 L 52.714287 63.75 L 44.714287 63.75 L 44.714287 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.714287' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='46.714287' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 44.714287 76.25 L 52.714287 76.25 L 52.714287 83.75 L 44.714287 83.75 L 44.714287 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.714287' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 48.714287 85.0 L 48.714287 105.0 M 27.0 105.0 L 48.714287 105.0 L 48.714287 107.0 L 27.0 107.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='68.42857' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 66.42857 66.25 L 74.42857 66.25 L 74.42857 73.75 L 66.42857 73.75 L 66.42857 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.42857' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='68.42857' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 66.42857 56.25 L 74.42857 56.25 L 74.42857 63.75 L 66.42857 63.75 L 66.42857 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.42857' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='68.42857' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 66.42857 76.25 L 74.42857 76.25 L 74.42857 83.75 L 66.42857 83.75 L 66.42857 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.42857' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 70.42857 85.0 L 70.42857 105.0 M 70.42857 105.0 L 92.14286 105.0 L 92.14286 107.0 L 70.42857 107.0 L 70.42857 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='90.14286' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 88.14286 66.25 L 96.14286 66.25 L 96.14286 73.75 L 88.14286 73.75 L 88.14286 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='88.14286' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='90.14286' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 88.14286 56.25 L 96.14286 56.25 L 96.14286 63.75 L 88.14286 63.75 L 88.14286 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='88.14286' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<text x='90.14286' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 88.14286 76.25 L 96.14286 76.25 L 96.14286 83.75 L 88.14286 83.75 L 88.14286 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='88.14286' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 92.14286 85.0 L 92.14286 105.0 M 70.42857 105.0 L 92.14286 105.0 L 92.14286 107.0 L 70.42857 107.0 L 70.42857 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 109.85714 56.25 L 117.85714 56.25 L 117.85714 63.75 L 109.85714 63.75 L 109.85714 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='109.85714' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 109.85714 36.25 L 117.85714 36.25 L 117.85714 43.75 L 109.85714 43.75 L 109.85714 36.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='109.85714' y='43.75' font-family="Default" font-size="10.0" fill="#404040" >9</text>
+<path d="M 113.85714 95.0 L 113.85714 105.0 Z" fill="none" stroke="#404040" stroke-width="1.0" /></g>
+<text x='330.0' y='302.0' font-family="Default" font-size="10.0" fill="#ff0000" >19</text>
+<path d="M 329.0 304.0 L 329.0 354.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 483.0 304.0 L 483.0 354.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(483.0,274.0)">
+<path d="M 0.0 0.0 L 175.0 0.0 L 175.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 175.0 30.0 M 0.0 40.0 L 175.0 40.0 M 0.0 50.0 L 175.0 50.0 M 0.0 60.0 L 175.0 60.0 M 0.0 70.0 L 175.0 70.0 M 0.0 80.0 L 175.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 27.0 85.0 L 27.0 105.0 M 27.0 105.0 L 48.6 105.0 L 48.6 107.0 L 27.0 107.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 44.6 56.25 L 52.6 56.25 L 52.6 63.75 L 44.6 63.75 L 44.6 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.6' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 44.6 66.25 L 52.6 66.25 L 52.6 73.75 L 44.6 73.75 L 44.6 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.6' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 44.6 76.25 L 52.6 76.25 L 52.6 83.75 L 44.6 83.75 L 44.6 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.6' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 48.6 85.0 L 48.6 105.0 M 27.0 105.0 L 48.6 105.0 L 48.6 107.0 L 27.0 107.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 66.2 56.25 L 74.2 56.25 L 74.2 63.75 L 66.2 63.75 L 66.2 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.2' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 66.2 66.25 L 74.2 66.25 L 74.2 73.75 L 66.2 73.75 L 66.2 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.2' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 66.2 76.25 L 74.2 76.25 L 74.2 83.75 L 66.2 83.75 L 66.2 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.2' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 70.2 85.0 L 70.2 105.0 M 70.2 105.0 L 91.8 105.0 L 91.8 107.0 L 70.2 107.0 L 70.2 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 87.8 56.25 L 95.8 56.25 L 95.8 63.75 L 87.8 63.75 L 87.8 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='87.8' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 87.8 66.25 L 95.8 66.25 L 95.8 73.75 L 87.8 73.75 L 87.8 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='87.8' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 87.8 76.25 L 95.8 76.25 L 95.8 83.75 L 87.8 83.75 L 87.8 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='87.8' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 91.8 85.0 L 91.8 105.0 M 70.2 105.0 L 91.8 105.0 L 91.8 107.0 L 70.2 107.0 L 70.2 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 109.4 56.25 L 117.4 56.25 L 117.4 63.75 L 109.4 63.75 L 109.4 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='109.4' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >5</text>
+<path d="M 109.4 36.25 L 117.4 36.25 L 117.4 43.75 L 109.4 43.75 L 109.4 36.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='109.4' y='43.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 113.4 95.0 L 113.4 105.0 Z" fill="none" stroke="#404040" stroke-width="1.0" /></g>
+<text x='484.0' y='302.0' font-family="Default" font-size="10.0" fill="#ff0000" >20</text>
+<path d="M 483.0 304.0 L 483.0 354.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 652.0 304.0 L 653.0 304.0 L 653.0 354.0 L 652.0 354.0 L 652.0 304.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 655.0 304.0 L 658.0 304.0 L 658.0 354.0 L 655.0 354.0 L 655.0 304.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 647.0 325.0 M 645.0 325.0 a 2.0 2.0 0 1 0 4.0 0 2.0 2.0 0 1 0 -4.0 0 M 647.0 333.0 M 645.0 333.0 a 2.0 2.0 0 1 0 4.0 0 2.0 2.0 0 1 0 -4.0 0 Z" fill="#000000" stroke="none" stroke-width="1.0" />
+<text x='639.0' y='302.0' font-family="Default" font-size="10.0" fill="#000000" >x3</text><g transform="translate(658.0,274.0)">
+<path d="M 0.0 0.0 L 79.0 0.0 L 79.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 79.0 30.0 M 0.0 40.0 L 79.0 40.0 M 0.0 50.0 L 79.0 50.0 M 0.0 60.0 L 79.0 60.0 M 0.0 70.0 L 79.0 70.0 M 0.0 80.0 L 79.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >8</text></g>
+<text x='659.0' y='302.0' font-family="Default" font-size="10.0" fill="#ff0000" >21</text>
+<path d="M 658.0 304.0 L 658.0 354.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 737.0 304.0 L 737.0 354.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(737.0,274.0)">
+<path d="M 0.0 0.0 L 80.0 0.0 L 80.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 80.0 30.0 M 0.0 40.0 L 80.0 40.0 M 0.0 50.0 L 80.0 50.0 M 0.0 60.0 L 80.0 60.0 M 0.0 70.0 L 80.0 70.0 M 0.0 80.0 L 80.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >8</text></g>
+<text x='738.0' y='302.0' font-family="Default" font-size="10.0" fill="#ff0000" >22</text>
+<path d="M 737.0 304.0 L 737.0 354.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 817.0 304.0 L 817.0 354.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(817.0,274.0)">
+<path d="M 0.0 0.0 L 133.0 0.0 L 133.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 133.0 30.0 M 0.0 40.0 L 133.0 40.0 M 0.0 50.0 L 133.0 50.0 M 0.0 60.0 L 133.0 60.0 M 0.0 70.0 L 133.0 70.0 M 0.0 80.0 L 133.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 27.0 85.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='48.25' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 46.25 56.25 L 54.25 56.25 L 54.25 63.75 L 46.25 63.75 L 46.25 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='46.25' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<text x='48.25' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 46.25 66.25 L 54.25 66.25 L 54.25 73.75 L 46.25 73.75 L 46.25 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='46.25' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<text x='48.25' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 46.25 76.25 L 54.25 76.25 L 54.25 83.75 L 46.25 83.75 L 46.25 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='46.25' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 50.25 85.0 L 50.25 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='71.5' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 69.5 56.25 L 77.5 56.25 L 77.5 63.75 L 69.5 63.75 L 69.5 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='69.5' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<text x='71.5' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 69.5 66.25 L 77.5 66.25 L 77.5 73.75 L 69.5 73.75 L 69.5 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='69.5' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<text x='71.5' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 69.5 76.25 L 77.5 76.25 L 77.5 83.75 L 69.5 83.75 L 69.5 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='69.5' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 73.5 85.0 L 73.5 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='94.75' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 92.75 56.25 L 100.75 56.25 L 100.75 63.75 L 92.75 63.75 L 92.75 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='92.75' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<text x='94.75' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 92.75 66.25 L 100.75 66.25 L 100.75 73.75 L 92.75 73.75 L 92.75 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='92.75' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<text x='94.75' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 92.75 76.25 L 100.75 76.25 L 100.75 83.75 L 92.75 83.75 L 92.75 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='92.75' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 96.75 85.0 L 96.75 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" /></g>
+<text x='818.0' y='302.0' font-family="Default" font-size="10.0" fill="#ff0000" >23</text>
+<path d="M 817.0 304.0 L 817.0 354.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 950.0 304.0 L 950.0 354.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(20.0,401.0)">
+<path d="M 0.0 0.0 L 127.0 0.0 L 127.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 127.0 30.0 M 0.0 40.0 L 127.0 40.0 M 0.0 50.0 L 127.0 50.0 M 0.0 60.0 L 127.0 60.0 M 0.0 70.0 L 127.0 70.0 M 0.0 80.0 L 127.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<text x='25.0' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 27.0 85.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='46.75' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 44.75 56.25 L 52.75 56.25 L 52.75 63.75 L 44.75 63.75 L 44.75 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.75' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<text x='46.75' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 44.75 66.25 L 52.75 66.25 L 52.75 73.75 L 44.75 73.75 L 44.75 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.75' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<text x='46.75' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 44.75 76.25 L 52.75 76.25 L 52.75 83.75 L 44.75 83.75 L 44.75 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.75' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 48.75 85.0 L 48.75 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='68.5' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 66.5 56.25 L 74.5 56.25 L 74.5 63.75 L 66.5 63.75 L 66.5 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.5' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<text x='68.5' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 66.5 66.25 L 74.5 66.25 L 74.5 73.75 L 66.5 73.75 L 66.5 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.5' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<text x='68.5' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 66.5 76.25 L 74.5 76.25 L 74.5 83.75 L 66.5 83.75 L 66.5 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.5' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 70.5 85.0 L 70.5 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<text x='90.25' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 88.25 56.25 L 96.25 56.25 L 96.25 63.75 L 88.25 63.75 L 88.25 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='88.25' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<text x='90.25' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 88.25 66.25 L 96.25 66.25 L 96.25 73.75 L 88.25 73.75 L 88.25 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='88.25' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<text x='90.25' y='21.5' font-family="Default" font-size="10.0" fill="#404040" >P.M</text>
+<path d="M 88.25 76.25 L 96.25 76.25 L 96.25 83.75 L 88.25 83.75 L 88.25 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='88.25' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 92.25 85.0 L 92.25 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" /></g>
+<text x='21.0' y='429.0' font-family="Default" font-size="10.0" fill="#ff0000" >24</text>
+<path d="M 20.0 431.0 L 20.0 481.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 147.0 431.0 L 147.0 481.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(147.0,401.0)">
+<path d="M 0.0 0.0 L 126.0 0.0 L 126.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 126.0 30.0 M 0.0 40.0 L 126.0 40.0 M 0.0 50.0 L 126.0 50.0 M 0.0 60.0 L 126.0 60.0 M 0.0 70.0 L 126.0 70.0 M 0.0 80.0 L 126.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 27.0 85.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 44.5 56.25 L 52.5 56.25 L 52.5 63.75 L 44.5 63.75 L 44.5 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.5' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 44.5 66.25 L 52.5 66.25 L 52.5 73.75 L 44.5 73.75 L 44.5 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.5' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 44.5 76.25 L 52.5 76.25 L 52.5 83.75 L 44.5 83.75 L 44.5 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.5' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 48.5 85.0 L 48.5 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 66.0 56.25 L 74.0 56.25 L 74.0 63.75 L 66.0 63.75 L 66.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 66.0 66.25 L 74.0 66.25 L 74.0 73.75 L 66.0 73.75 L 66.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 66.0 76.25 L 74.0 76.25 L 74.0 83.75 L 66.0 83.75 L 66.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 70.0 85.0 L 70.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 87.5 56.25 L 95.5 56.25 L 95.5 63.75 L 87.5 63.75 L 87.5 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='87.5' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 87.5 66.25 L 95.5 66.25 L 95.5 73.75 L 87.5 73.75 L 87.5 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='87.5' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 87.5 76.25 L 95.5 76.25 L 95.5 83.75 L 87.5 83.75 L 87.5 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='87.5' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 91.5 85.0 L 91.5 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" /></g>
+<text x='148.0' y='429.0' font-family="Default" font-size="10.0" fill="#ff0000" >25</text>
+<path d="M 147.0 431.0 L 147.0 481.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 273.0 431.0 L 273.0 481.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(273.0,401.0)">
+<path d="M 0.0 0.0 L 127.0 0.0 L 127.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 127.0 30.0 M 0.0 40.0 L 127.0 40.0 M 0.0 50.0 L 127.0 50.0 M 0.0 60.0 L 127.0 60.0 M 0.0 70.0 L 127.0 70.0 M 0.0 80.0 L 127.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 27.0 85.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 44.75 56.25 L 52.75 56.25 L 52.75 63.75 L 44.75 63.75 L 44.75 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.75' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 44.75 66.25 L 52.75 66.25 L 52.75 73.75 L 44.75 73.75 L 44.75 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.75' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 44.75 76.25 L 52.75 76.25 L 52.75 83.75 L 44.75 83.75 L 44.75 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.75' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 48.75 85.0 L 48.75 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 66.5 56.25 L 74.5 56.25 L 74.5 63.75 L 66.5 63.75 L 66.5 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.5' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 66.5 66.25 L 74.5 66.25 L 74.5 73.75 L 66.5 73.75 L 66.5 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.5' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 66.5 76.25 L 74.5 76.25 L 74.5 83.75 L 66.5 83.75 L 66.5 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.5' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 70.5 85.0 L 70.5 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 88.25 56.25 L 96.25 56.25 L 96.25 63.75 L 88.25 63.75 L 88.25 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='88.25' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 88.25 66.25 L 96.25 66.25 L 96.25 73.75 L 88.25 73.75 L 88.25 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='88.25' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 88.25 76.25 L 96.25 76.25 L 96.25 83.75 L 88.25 83.75 L 88.25 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='88.25' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 92.25 85.0 L 92.25 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" /></g>
+<text x='274.0' y='429.0' font-family="Default" font-size="10.0" fill="#ff0000" >26</text>
+<path d="M 273.0 431.0 L 273.0 481.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 400.0 431.0 L 400.0 481.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(400.0,401.0)">
+<path d="M 0.0 0.0 L 105.0 0.0 L 105.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 105.0 30.0 M 0.0 40.0 L 105.0 40.0 M 0.0 50.0 L 105.0 50.0 M 0.0 60.0 L 105.0 60.0 M 0.0 70.0 L 105.0 70.0 M 0.0 80.0 L 105.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >3</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >3</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >3</text>
+<path d="M 27.0 85.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 31.0 104.0 M 29.5 104.0 a 1.5 1.5 0 1 0 3.0 0 1.5 1.5 0 1 0 -3.0 0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 44.666664 56.25 L 52.666664 56.25 L 52.666664 63.75 L 44.666664 63.75 L 44.666664 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='44.666664' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >2</text>
+<path d="M 44.666664 66.25 L 52.666664 66.25 L 52.666664 73.75 L 44.666664 73.75 L 44.666664 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='44.666664' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >2</text>
+<path d="M 44.666664 76.25 L 52.666664 76.25 L 52.666664 83.75 L 44.666664 83.75 L 44.666664 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='44.666664' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >2</text>
+<path d="M 48.666664 85.0 L 48.666664 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 52.666664 104.0 M 51.166664 104.0 a 1.5 1.5 0 1 0 3.0 0 1.5 1.5 0 1 0 -3.0 0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 66.33333 76.25 L 74.33333 76.25 L 74.33333 83.75 L 66.33333 83.75 L 66.33333 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='66.33333' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 66.33333 66.25 L 74.33333 66.25 L 74.33333 73.75 L 66.33333 73.75 L 66.33333 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='66.33333' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 66.33333 56.25 L 74.33333 56.25 L 74.33333 63.75 L 66.33333 63.75 L 66.33333 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='66.33333' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 70.33333 85.0 L 70.33333 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" /></g>
+<text x='401.0' y='429.0' font-family="Default" font-size="10.0" fill="#ff0000" >27</text>
+<path d="M 400.0 431.0 L 403.0 431.0 L 403.0 481.0 L 400.0 481.0 L 400.0 431.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 405.0 431.0 L 406.0 431.0 L 406.0 481.0 L 405.0 481.0 L 405.0 431.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 411.0 452.0 M 409.0 452.0 a 2.0 2.0 0 1 0 4.0 0 2.0 2.0 0 1 0 -4.0 0 M 411.0 460.0 M 409.0 460.0 a 2.0 2.0 0 1 0 4.0 0 2.0 2.0 0 1 0 -4.0 0 Z" fill="#000000" stroke="none" stroke-width="1.0" />
+<path d="M 505.0 431.0 L 505.0 481.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(505.0,401.0)">
+<path d="M 0.0 0.0 L 106.0 0.0 L 106.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 106.0 30.0 M 0.0 40.0 L 106.0 40.0 M 0.0 50.0 L 106.0 50.0 M 0.0 60.0 L 106.0 60.0 M 0.0 70.0 L 106.0 70.0 M 0.0 80.0 L 106.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 7.0 65.0 C 7.0 68.333336 27.0 68.333336 27.0 65.0 C 27.0 70.333336 7.0 70.333336 7.0 65.0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 7.0 75.0 C 7.0 78.333336 27.0 78.333336 27.0 75.0 C 27.0 80.333336 7.0 80.333336 7.0 75.0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 7.0 85.0 C 7.0 88.333336 27.0 88.333336 27.0 85.0 C 27.0 90.333336 7.0 90.333336 7.0 85.0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 27.0 85.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 45.0 76.25 L 53.0 76.25 L 53.0 83.75 L 45.0 83.75 L 45.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='45.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >5</text>
+<path d="M 45.0 66.25 L 53.0 66.25 L 53.0 73.75 L 45.0 73.75 L 45.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='45.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >5</text>
+<path d="M 45.0 56.25 L 53.0 56.25 L 53.0 63.75 L 45.0 63.75 L 45.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='45.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >5</text>
+<path d="M 49.0 85.0 L 49.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 53.0 104.0 M 51.5 104.0 a 1.5 1.5 0 1 0 3.0 0 1.5 1.5 0 1 0 -3.0 0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 67.0 56.25 L 75.0 56.25 L 75.0 63.75 L 67.0 63.75 L 67.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='67.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >3</text>
+<path d="M 67.0 66.25 L 75.0 66.25 L 75.0 73.75 L 67.0 73.75 L 67.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='67.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >3</text>
+<path d="M 67.0 76.25 L 75.0 76.25 L 75.0 83.75 L 67.0 83.75 L 67.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='67.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >3</text>
+<path d="M 71.0 85.0 L 71.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 75.0 104.0 M 73.5 104.0 a 1.5 1.5 0 1 0 3.0 0 1.5 1.5 0 1 0 -3.0 0 Z" fill="#404040" stroke="none" stroke-width="0.75" /></g>
+<text x='506.0' y='429.0' font-family="Default" font-size="10.0" fill="#ff0000" >28</text>
+<path d="M 505.0 431.0 L 505.0 481.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 611.0 431.0 L 611.0 481.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(611.0,401.0)">
+<path d="M 0.0 0.0 L 108.0 0.0 L 108.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 108.0 30.0 M 0.0 40.0 L 108.0 40.0 M 0.0 50.0 L 108.0 50.0 M 0.0 60.0 L 108.0 60.0 M 0.0 70.0 L 108.0 70.0 M 0.0 80.0 L 108.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >2</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >2</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >2</text>
+<path d="M 27.0 95.0 L 27.0 105.0 Z" fill="none" stroke="#404040" stroke-width="1.0" />
+<path d="M 48.757576 56.25 L 56.757576 56.25 L 56.757576 63.75 L 48.757576 63.75 L 48.757576 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='48.757576' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >3</text>
+<path d="M 48.757576 66.25 L 56.757576 66.25 L 56.757576 73.75 L 48.757576 73.75 L 48.757576 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='48.757576' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >3</text>
+<path d="M 48.757576 76.25 L 56.757576 76.25 L 56.757576 83.75 L 48.757576 83.75 L 48.757576 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='48.757576' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >3</text>
+<path d="M 52.757576 85.0 L 52.757576 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 56.757576 104.0 M 55.257576 104.0 a 1.5 1.5 0 1 0 3.0 0 1.5 1.5 0 1 0 -3.0 0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 70.393936 56.25 L 78.393936 56.25 L 78.393936 63.75 L 70.393936 63.75 L 70.393936 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='70.393936' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >5</text>
+<path d="M 70.393936 66.25 L 78.393936 66.25 L 78.393936 73.75 L 70.393936 73.75 L 70.393936 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='70.393936' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >5</text>
+<path d="M 70.393936 76.25 L 78.393936 76.25 L 78.393936 83.75 L 70.393936 83.75 L 70.393936 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='70.393936' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >5</text>
+<path d="M 74.393936 85.0 L 74.393936 105.0 M 74.393936 105.0 L 80.393936 105.0 L 80.393936 107.0 L 74.393936 107.0 L 74.393936 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" /></g>
+<text x='612.0' y='429.0' font-family="Default" font-size="10.0" fill="#ff0000" >29</text>
+<path d="M 611.0 431.0 L 611.0 481.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 719.0 431.0 L 719.0 481.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(719.0,401.0)">
+<path d="M 0.0 0.0 L 106.0 0.0 L 106.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 106.0 30.0 M 0.0 40.0 L 106.0 40.0 M 0.0 50.0 L 106.0 50.0 M 0.0 60.0 L 106.0 60.0 M 0.0 70.0 L 106.0 70.0 M 0.0 80.0 L 106.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 7.0 85.0 C 7.0 88.333336 27.0 88.333336 27.0 85.0 C 27.0 90.333336 7.0 90.333336 7.0 85.0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 7.0 75.0 C 7.0 78.333336 27.0 78.333336 27.0 75.0 C 27.0 80.333336 7.0 80.333336 7.0 75.0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 7.0 65.0 C 7.0 68.333336 27.0 68.333336 27.0 65.0 C 27.0 70.333336 7.0 70.333336 7.0 65.0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 27.0 85.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 45.0 76.25 L 53.0 76.25 L 53.0 83.75 L 45.0 83.75 L 45.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='45.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 45.0 66.25 L 53.0 66.25 L 53.0 73.75 L 45.0 73.75 L 45.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='45.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 45.0 56.25 L 53.0 56.25 L 53.0 63.75 L 45.0 63.75 L 45.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='45.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 49.0 85.0 L 49.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 53.0 104.0 M 51.5 104.0 a 1.5 1.5 0 1 0 3.0 0 1.5 1.5 0 1 0 -3.0 0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 67.0 56.25 L 75.0 56.25 L 75.0 63.75 L 67.0 63.75 L 67.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='67.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 67.0 66.25 L 75.0 66.25 L 75.0 73.75 L 67.0 73.75 L 67.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='67.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 67.0 76.25 L 75.0 76.25 L 75.0 83.75 L 67.0 83.75 L 67.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='67.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >8</text>
+<path d="M 71.0 85.0 L 71.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 75.0 104.0 M 73.5 104.0 a 1.5 1.5 0 1 0 3.0 0 1.5 1.5 0 1 0 -3.0 0 Z" fill="#404040" stroke="none" stroke-width="0.75" /></g>
+<text x='720.0' y='429.0' font-family="Default" font-size="10.0" fill="#ff0000" >30</text>
+<path d="M 719.0 431.0 L 719.0 481.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 825.0 431.0 L 825.0 481.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(825.0,401.0)">
+<path d="M 0.0 0.0 L 125.0 0.0 L 125.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 125.0 30.0 M 0.0 40.0 L 125.0 40.0 M 0.0 50.0 L 125.0 50.0 M 0.0 60.0 L 125.0 60.0 M 0.0 70.0 L 125.0 70.0 M 0.0 80.0 L 125.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 23.0 76.25 L 31.0 76.25 L 31.0 83.75 L 23.0 83.75 L 23.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 23.0 66.25 L 31.0 66.25 L 31.0 73.75 L 23.0 73.75 L 23.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 23.0 56.25 L 31.0 56.25 L 31.0 63.75 L 23.0 63.75 L 23.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='23.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >7</text>
+<path d="M 27.0 85.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 44.506023 56.25 L 52.506023 56.25 L 52.506023 63.75 L 44.506023 63.75 L 44.506023 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.506023' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >5</text>
+<path d="M 44.506023 66.25 L 52.506023 66.25 L 52.506023 73.75 L 44.506023 73.75 L 44.506023 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.506023' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >5</text>
+<path d="M 44.506023 76.25 L 52.506023 76.25 L 52.506023 83.75 L 44.506023 83.75 L 44.506023 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.506023' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >5</text>
+<path d="M 48.506023 85.0 L 48.506023 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 66.01205 76.25 L 74.01205 76.25 L 74.01205 83.75 L 66.01205 83.75 L 66.01205 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.01205' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >3</text>
+<path d="M 66.01205 66.25 L 74.01205 66.25 L 74.01205 73.75 L 66.01205 73.75 L 66.01205 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.01205' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >3</text>
+<path d="M 66.01205 56.25 L 74.01205 56.25 L 74.01205 63.75 L 66.01205 63.75 L 66.01205 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='66.01205' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >3</text>
+<path d="M 70.01205 85.0 L 70.01205 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 74.01205 104.0 M 72.51205 104.0 a 1.5 1.5 0 1 0 3.0 0 1.5 1.5 0 1 0 -3.0 0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 87.518074 76.25 L 95.518074 76.25 L 95.518074 83.75 L 87.518074 83.75 L 87.518074 76.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='87.518074' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >2</text>
+<path d="M 87.518074 66.25 L 95.518074 66.25 L 95.518074 73.75 L 87.518074 73.75 L 87.518074 66.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='87.518074' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >2</text>
+<path d="M 87.518074 56.25 L 95.518074 56.25 L 95.518074 63.75 L 87.518074 63.75 L 87.518074 56.25 Z" fill="#ffffff" stroke="none" stroke-width="0.75" />
+<text x='87.518074' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >2</text>
+<path d="M 91.518074 85.0 L 91.518074 105.0 M 91.518074 105.0 L 97.518074 105.0 L 97.518074 107.0 L 91.518074 107.0 L 91.518074 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" /></g>
+<text x='826.0' y='429.0' font-family="Default" font-size="10.0" fill="#ff0000" >31</text>
+<path d="M 825.0 431.0 L 825.0 481.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 950.0 431.0 L 950.0 481.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" /><g transform="translate(20.0,528.0)">
+<path d="M 0.0 0.0 L 127.0 0.0 L 127.0 116.0 L 0.0 116.0 L 0.0 0.0 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<path d="M 0.0 30.0 L 127.0 30.0 M 0.0 40.0 L 127.0 40.0 M 0.0 50.0 L 127.0 50.0 M 0.0 60.0 L 127.0 60.0 M 0.0 70.0 L 127.0 70.0 M 0.0 80.0 L 127.0 80.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+<path d="M 7.0 65.0 C 7.0 68.333336 27.0 68.333336 27.0 65.0 C 27.0 70.333336 7.0 70.333336 7.0 65.0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 7.0 75.0 C 7.0 78.333336 27.0 78.333336 27.0 75.0 C 27.0 80.333336 7.0 80.333336 7.0 75.0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 7.0 85.0 C 7.0 88.333336 27.0 88.333336 27.0 85.0 C 27.0 90.333336 7.0 90.333336 7.0 85.0 Z" fill="#404040" stroke="none" stroke-width="0.75" />
+<path d="M 27.0 85.0 L 27.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" />
+<path d="M 44.0 76.25 L 52.0 76.25 L 52.0 83.75 L 44.0 83.75 L 44.0 76.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.0' y='83.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 44.0 66.25 L 52.0 66.25 L 52.0 73.75 L 44.0 73.75 L 44.0 66.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.0' y='73.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 44.0 56.25 L 52.0 56.25 L 52.0 63.75 L 44.0 63.75 L 44.0 56.25 Z" fill="#ffffff" stroke="none" stroke-width="1.0" />
+<text x='44.0' y='63.75' font-family="Default" font-size="10.0" fill="#404040" >0</text>
+<path d="M 48.0 95.0 L 48.0 105.0 Z" fill="none" stroke="#404040" stroke-width="1.0" />
+<path d="M 53.0 65.0 C 53.0 68.333336 73.0 68.333336 73.0 65.0 C 73.0 70.333336 53.0 70.333336 53.0 65.0 Z" fill="#404040" stroke="none" stroke-width="1.0" />
+<path d="M 53.0 75.0 C 53.0 78.333336 73.0 78.333336 73.0 75.0 C 73.0 80.333336 53.0 80.333336 53.0 75.0 Z" fill="#404040" stroke="none" stroke-width="1.0" />
+<path d="M 53.0 85.0 C 53.0 88.333336 73.0 88.333336 73.0 85.0 C 73.0 90.333336 53.0 90.333336 53.0 85.0 Z" fill="#404040" stroke="none" stroke-width="1.0" />
+<path d="M 73.0 85.0 L 73.0 105.0 Z" fill="#404040" stroke="#404040" stroke-width="1.0" /></g>
+<text x='21.0' y='556.0' font-family="Default" font-size="10.0" fill="#ff0000" >32</text>
+<path d="M 20.0 558.0 L 20.0 608.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 141.0 558.0 L 142.0 558.0 L 142.0 608.0 L 141.0 608.0 L 141.0 558.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 144.0 558.0 L 147.0 558.0 L 147.0 608.0 L 144.0 608.0 L 144.0 558.0 Z" fill="#000000" stroke="#000000" stroke-width="0.75" />
+<path d="M 136.0 579.0 M 134.0 579.0 a 2.0 2.0 0 1 0 4.0 0 2.0 2.0 0 1 0 -4.0 0 M 136.0 587.0 M 134.0 587.0 a 2.0 2.0 0 1 0 4.0 0 2.0 2.0 0 1 0 -4.0 0 Z" fill="#000000" stroke="none" stroke-width="1.0" />
+<text x='128.0' y='556.0' font-family="Default" font-size="10.0" fill="#000000" >x2</text>
+<path d="M 149.0 558.0 L 930.0 558.0 M 149.0 568.0 L 930.0 568.0 M 149.0 578.0 L 930.0 578.0 M 149.0 588.0 L 930.0 588.0 M 149.0 598.0 L 930.0 598.0 M 149.0 608.0 L 930.0 608.0 Z" fill="none" stroke="#d6d6d6" stroke-width="0.75" />
+</svg>
