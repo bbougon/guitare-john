@@ -1,6 +1,7 @@
 # Ateliers de John
 
 ## Les cours
+- [RATM](./cours/RATM/README.md)
 - [RHCP](./cours/RHCP/README.md)
 
 ## Les ateliers
