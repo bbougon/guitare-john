@@ -5,6 +5,7 @@
 - [RATM](./cours/RATM/README.md)
 - [RHCP](./cours/RHCP/README.md)
 - [Sum 41](./cours/Sum_41/README.md)
+- [The Rolling Stones](cours/The_Rolling_Stones/README.md)
 
 ## Les ateliers
 - [Metalica - Enter Sandman](ateliers/Metallica/Enter_Sandman/README.md)
