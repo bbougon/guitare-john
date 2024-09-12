@@ -1,6 +1,7 @@
 # Ateliers de John
 
 ## Les cours
+- [AC/DC](cours/ACDC/README.md)
 - [Green Day](./cours/Green_Day/README.md)
 - [RATM](./cours/RATM/README.md)
 - [RHCP](./cours/RHCP/README.md)
