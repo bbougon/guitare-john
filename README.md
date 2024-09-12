@@ -5,6 +5,7 @@
 - [Green Day](./cours/Green_Day/README.md)
 - [RATM](./cours/RATM/README.md)
 - [RHCP](./cours/RHCP/README.md)
+- [Scars on Broadway](cours/Scars_on_broadway/README.md)
 - [Sum 41](./cours/Sum_41/README.md)
 - [The Rolling Stones](cours/The_Rolling_Stones/README.md)
 - [Ugly Kid Joe](cours/Ugly_Kid_Joe/README.md)
