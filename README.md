@@ -14,7 +14,9 @@
 ## Les ateliers
 - [Metalica - Enter Sandman](ateliers/Metallica/Enter_Sandman/README.md)
 - [Ozzy Osbourne](./ateliers/Ozzy_Osbourne/Crazy_Train/README.md)
+- [RHCP - Californication](ateliers/RHCP/Californication/README.md)
 - [SOAD - Aerials](./ateliers/SOAD/Aerials/README.md)
+
 
 ## Divers
 - [Light of the seven](./divers/Light_of_the_sevens/README.md)
