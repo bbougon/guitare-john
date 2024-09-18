@@ -12,6 +12,7 @@
 - [Ugly Kid Joe](cours/Ugly_Kid_Joe/README.md)
 
 ## Les ateliers
+- [Gary Clark Jr - Come together](ateliers/Gary_Clark/Come_together/README.md)
 - [Metalica - Enter Sandman](ateliers/Metallica/Enter_Sandman/README.md)
 - [Ozzy Osbourne](./ateliers/Ozzy_Osbourne/Crazy_Train/README.md)
 - [RHCP - Californication](ateliers/RHCP/Californication/README.md)
