@@ -13,6 +13,7 @@
 - [Ugly Kid Joe](cours/Ugly_Kid_Joe/README.md)
 
 ## Les ateliers
+- [Deep Purple - Smoke On The Water](./ateliers/Deep_Purple/Smoke_On_the_Water/README.md)
 - [Gary Clark Jr - Come together](ateliers/Gary_Clark/Come_together/README.md)
 - [Metalica - Enter Sandman](ateliers/Metallica/Enter_Sandman/README.md)
 - [Muse](./ateliers/Muse/README.md)
