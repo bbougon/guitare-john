@@ -1,6 +1,7 @@
 # Ateliers de John
 
 ## Les cours
+- [Accords](cours/Accords/README.md)
 - [AC/DC](cours/ACDC/README.md)
 - [Green Day](./cours/Green_Day/README.md)
 - [Interpol](cours/Interpol/README.md)
