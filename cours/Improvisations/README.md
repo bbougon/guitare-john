@@ -15,3 +15,7 @@ Il ne faut pas chercher la rapidité mais la mélodie en ponctuant avec des paus
 
 ## Metallica
 [Fade to black](Fade_to_black/README.md)
+
+## Rock Jam
+- [Classic Rock Guitar Backing Track - Blues Rock Jam in E](https://www.youtube.com/watch?v=O_9_RwPUlpc)
+  - Basé sur une penta 12ème corde
