@@ -23,6 +23,8 @@
 - [SOAD - Aerials](./ateliers/SOAD/Aerials/README.md)
 - [The Animals - House Of The Rising Sun (version Shaka Ponk)](./ateliers/The_Animals/House_Of_The_Rising_Sun/README.md)
 
+## Les concerts
+[Concerts](./concerts/README.md)
 
 ## Divers
 - [Light of the seven](./divers/Light_of_the_sevens/README.md)
