@@ -44,3 +44,8 @@ Le principe reste le même pour les autres accords :
 ![resume.svg](./images/resume.svg)
 
 [Résumé Tux Guitar](./images/resume.tg)
+
+## Quelques accords 
+### Les accords de Knight of Cydonia
+![accords.svg](images/accords.svg)
+[Accords Tux Guitar](accords.tg)
