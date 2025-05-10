@@ -20,6 +20,7 @@
 - [Metalica - Enter Sandman](ateliers/Metallica/Enter_Sandman/README.md)
 - [Muse](./ateliers/Muse/README.md)
 - [Ozzy Osbourne](./ateliers/Ozzy_Osbourne/Crazy_Train/README.md)
+- [Pixies - Where is my mind](./ateliers/Pixies/Where_is_my_mind/README.md)
 - [RHCP - Californication](ateliers/RHCP/Californication/README.md)
 - [SOAD - Aerials](./ateliers/SOAD/Aerials/README.md)
 - [The Animals - House Of The Rising Sun (version Shaka Ponk)](./ateliers/The_Animals/House_Of_The_Rising_Sun/README.md)
