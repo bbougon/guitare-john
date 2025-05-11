@@ -4,6 +4,7 @@
 - [Vidéo (originale)](https://youtu.be/N4bFqW_eu2I?si=_-3abDJXUsNYAATQ)
 - [Vidéo (version Shaka Ponk)](https://youtu.be/sNLsy_XYpBM?si=mkjoghn9Rs6Apv07)
 - [Wikipedia](https://fr.wikipedia.org/wiki/The_House_of_the_Rising_Sun)
+- Vidéos disponibles sur le groupe en date du 16/11/2024
 
 ## Comment on la joue
 
@@ -74,3 +75,30 @@
 [Accords](./structure.tg)
 
 ![structure.svg](structure.svg)
+
+### Pour le concert
+**Répétition du du 10/05/2025**
+
+- Guitaristes :
+  - Intro : Sylvain
+  - Accords : Vincent et Sylvain
+  - Interventions : Candice et Lenny
+  - Solos : Sylvain et Vincent
+  - Thème : Bertrand
+
+| Partie  | Comment                                                                                                                                         | Mesures                                  | 
+|---------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| Intro   | - Sylvain (arpèges) <br /> - Candice et Lenny (interventions)                                                                                   | 16 mesures                               |
+| Couplet | - Vincent (accords) <br /> - Bertrand (son clair, PM) <br /> - Candice et Lenny (interventions)                                                 | 16 mesures               |
+| Montée  | - Distorsion <br /> - Palm mute doux <br /> - Palm mute + montée en intensité <br /> - Montée en intensité                                      | 2 mesures <br /> 1 mesure <br /> 1 mesure |
+| Refrain | - A balle <br /> - Baisse d'intensité <br /> - Candice et Lenny (interventions)                                                                                                          | 14 mesures <br /> 2 mesures              |
+| Couplet | - Sec avec la réverb <br /> - On retire la reverb, on monte en intensité à la croche                                                            | 12 mesures <br /> 2 mesures              |
+| Refrain | - A balle <br /> - Baisse d'intensité <br /> - Candice et Lenny (interventions)                                                                                                          | 14 mesures <br /> 2 mesures              |
+| Solos   | - Pendant les solos, on reprend comme le couplet, sec en plam mute <br /> - Sur la fin du solo de Sylvain, on fait monter doucement l'intensité |                                          |
+| Refrain | - A balle                                                                                                                                       | 16 mesures                               |
+
+#### Interventions
+En pentatonique de La, 2ème point soit :
+
+[Partition](pentatonique_la.tg) (avec les notes sensibles en cordes de Si et Mi)
+![pentatonique_la.svg](pentatonique_la.svg)
