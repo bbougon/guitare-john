@@ -5,6 +5,7 @@
 - [AC/DC](cours/ACDC/README.md)
 - [Green Day](./cours/Green_Day/README.md)
 - [Interpol](cours/Interpol/README.md)
+- [Muse](./cours/Muse/README.md)
 - [Pixies](./cours/Pixies/README.md)
 - [RATM](./cours/RATM/README.md)
 - [RHCP](./cours/RHCP/README.md)
