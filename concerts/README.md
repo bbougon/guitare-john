@@ -9,34 +9,28 @@ Ci-dessous deux vidéos explicatives sur comment effectuer et modifier un vote
 
 ## Concert Cultura 7 Juin 2025
 
-- [Sondage première liste](https://framadate.org/mEcZF4eoZ8MyTJTp)
-- [Sondage seconde liste](https://framadate.org/aataKTwelHeNLIcA)
+### Setlist
 
-### Résultats (partiels à mettre à jour)
+#### Acoustique / Électrique
 
-#### Premier sondage
+| Titre         | Guitariste(s)            | Remarques |
+|---------------|--------------------------|-----------|
+| Stand by me   | Ghislaine                |           |
+| Satisfaction  | Alain, Franck, Ghislaine |           |
+| Zombie        | Alain, Franck, Ghislaine |           |
+| 4 non blondes | Alain, Franck            |           |
 
-| Titre                   | Participants aux votes                                        | Remarques             |
-|-------------------------|---------------------------------------------------------------|-----------------------|
-| Californication         | Bertrand, Candice, Sylvain, Fabien, Eric                      |                       |
-| Where is my mind        | Bertrand, Candice, Sylvain, Lenny, Fabien                     |                       |
-| Un autre monde          | Sylvain, Johann, Fabien, Eric                                 |                       |
-| I love rock and roll    | Sylvain, Vincent, Lenny, Eric                                 |                       |
-| Always on the run       | Mathieu B, Sylvain, Vincent, Eric                             |                       |
-| Hold the line           | Mathieu B, Johann, Olivier, Eric, (Fabien)                    |                       |
-| Footlose                | Mathieu B, Johann, Olivier                                    |                       |
-| Éteins la lumière       | Mathieu B, Vincent, Lenny, Johan, Olivier, Fabien             |                       |
-| Sympathy for the devil  | Mathieu B, Johann, Olivier, Mathieu D                         |                       |
-| Born to be wild         | Mathieu B, Johann, Mathieu B, (Bertrand)                      |                       |
-| Fortunate son           | Mathieu B, Sylvain, Vincent, Johann, Olivier, Mathieu D, Eric |                       |
-| House of the rising sun | Sylvain, Vincent, Mathieu D, Eric                             | A confirmer avec John |
+#### Électrique
 
-#### Second sondage (partiel, correspond aux résultats des votes au 01/05/2025, en attente de validation par John)
-
-| Titre                   | Participants aux votes                             |
-|-------------------------|----------------------------------------------------|
-| C'est comme ça          | Olivier, Lenny, Johann, Mathieu B, Mathieu D, Eric |
-| Are you gonna go my way | Bertrand, Vincent, Lenny, Johann, Candice          |
-| I kissed a girl         | Olivier, Lenny, Johann, Mathieu B, Mathieu D       |
-| Don't you               | Lenny, Johann, Mathieu B, Mathieu D                |
-| Creep                   | Fabien, Olivier Lenny, Johann                      |
+| Titre                     | Guitariste(s)                                      | Date vidéos sur le groupe |
+|---------------------------|----------------------------------------------------|---------------------------|
+| Where is my mind          | Sylvain, Candice, Lenny, Bertrand                  | 08/02/2025                |
+| Californication           | Sylvain, Candice, Lenny, Bertrand                  | 14/09/2024                |
+| Un autre monde            | Sylvain, Vincent, Franck, Olivier                  | 23/05/2025                |
+| La grange                 | Sylvain, Vincent, Mathieu, Franck, Olivier         | 17/05/2025                |
+| Fortunate Son             | Sylvain, Vincent, Mathieu, Franck, Olivier, Franck | 23/05/2025                |
+| Knocking on heaven's door | Sylvain, Lenny, Franck, Mathieu, Olivier           |                           |
+| Are you gonna go my way   | Sylvain, Vincent, Lenny, Candice                   | 19/04/2025                |
+| House of the rising sun   | Sylvain, Vincent, Bertrand, Franck ?, Olivier ?    | 16/11/2024                |
+| Éteins la lumière         | Sylvain, Vincent, Bertrand, Lenny                  |                           |
+| Born to be wild           | Sylvain, Vincent, Bertrand, Olivier                |                           |
