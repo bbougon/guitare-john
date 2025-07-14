@@ -30,5 +30,8 @@
 ## Les concerts
 [Concerts](./concerts/README.md)
 
+## Les stages
+[Stages](./stages/README.md)
+
 ## Divers
 - [Light of the seven](./divers/Light_of_the_sevens/README.md)
