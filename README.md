@@ -25,6 +25,7 @@
 - [Pixies - Where is my mind](./ateliers/Pixies/Where_is_my_mind/README.md)
 - [RHCP - Californication](ateliers/RHCP/Californication/README.md)
 - [SOAD - Aerials](./ateliers/SOAD/Aerials/README.md)
+- [SUM41 - Paint it Black](./ateliers/SUM_41/Paint_it_black.md)
 - [The Animals - House Of The Rising Sun (version Shaka Ponk)](./ateliers/The_Animals/House_Of_The_Rising_Sun/README.md)
 
 ## Les concerts
