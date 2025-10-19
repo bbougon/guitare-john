@@ -35,4 +35,4 @@
 [Stages](./stages/README.md)
 
 ## Divers
-- [Light of the seven](./divers/Light_of_the_sevens/README.md)
+- [Exploration](./divers/exploration/README.md)
