@@ -18,6 +18,7 @@
 - [ACDC - Hells Bells](./ateliers/ACDC/README.md)
 - [Deep Purple - Smoke On The Water](./ateliers/Deep_Purple/Smoke_On_the_Water/README.md)
 - [Gary Clark Jr - Come together](ateliers/Gary_Clark/Come_together/README.md)
+- [Jet - Are you gonna be my girl](./ateliers/Jet/Are_you_gonna_be_my_girl/README.md)
 - [Lenny Kravitz - Are you gonna go my way](./ateliers/Lenny_Kravitz/Are_you_gonna_go_my_way/README.md)
 - [Metalica - Enter Sandman](ateliers/Metallica/Enter_Sandman/README.md)
 - [Muse](./ateliers/Muse/README.md)
