@@ -36,3 +36,4 @@
 
 ## Divers
 - [Exploration](./divers/exploration/README.md)
+- [Pédales](./divers/README.md)
