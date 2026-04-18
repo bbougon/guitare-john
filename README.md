@@ -30,7 +30,7 @@
 - [The Animals - House Of The Rising Sun (version Shaka Ponk)](./ateliers/The_Animals/House_Of_The_Rising_Sun/README.md)
 
 ## Les concerts
-[Concerts](./concerts/README.md)
+[Concerts](concerts/README.md)
 
 ## Les stages
 [Stages](./stages/README.md)
