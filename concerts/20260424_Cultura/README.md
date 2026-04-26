@@ -65,3 +65,13 @@
 | Couplet partie 2 | 4 tournes                                                                    |
 | Refrain          | 2 tournes                                                                    |
 
+## Killing in the Name
+
+| Partie      | Tournes                                                                                     |
+|-------------|---------------------------------------------------------------------------------------------|
+| Intro       | 4 accords en Ré (4*4 temps) puis intro : graves Candice + Sylvain, aigus Vincent + Bertrand |
+| Riff        | tous ensemble                                                                               |
+| Couplet     | 8 tournes (on baisse en intensité)                                                          |
+| Pont        | 2 tournes on remonte en intensité                                                           |
+| Pré-refrain |                                                            |
+| Refrain     |                                                            |
