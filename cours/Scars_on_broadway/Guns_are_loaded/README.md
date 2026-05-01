@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Guns are loaded
 
 - [Intro](Guns_are_loaded_intro.mp4)

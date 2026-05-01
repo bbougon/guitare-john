@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Improvisations
 
 Pour improviser, il faut appliquer des schémas en se basant sur des penta en variant :

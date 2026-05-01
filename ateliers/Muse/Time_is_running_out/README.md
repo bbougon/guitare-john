@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Time is running out
 
 - Date de sortie 8 septembre 2003

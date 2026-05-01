@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Big Guns
 - [Vidéos de cours](https://www.youtube.com/playlist?list=PL-mUMncHrS0nJp_YDUCBmU71zILgsqQsy)
 

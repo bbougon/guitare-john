@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Paint it black
 
 - Date de sortie 2024, dans l'album [Heaven :x: Hell](https://fr.wikipedia.org/wiki/Heaven_:x:_Hell), reprise

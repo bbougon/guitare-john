@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Fade to black
 
 ## Intro

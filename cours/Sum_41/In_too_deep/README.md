@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # In too deep
 - **Date de sortie :** Décembre 2001 [Wikipedia](https://fr.wikipedia.org/wiki/In_Too_Deep_(chanson_de_Sum_41))
 - [Vidéo](https://www.youtube.com/watch?v=emGri7i8Y2Y)

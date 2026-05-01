@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Where is my mind
 - **Date de sortie :** 1998 [Wikipedia](https://en.wikipedia.org/wiki/Where_Is_My_Mind)
 - [Vidéo](https://youtu.be/I_aBmrYChfQ?si=Rz6477yAycOXKK_Z)

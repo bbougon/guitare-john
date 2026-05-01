@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Knights of Cydonia
 - **Date de sortie :** 27 Novembre 2006 [Wikipedia](https://fr.wikipedia.org/wiki/Knights_of_Cydonia)
 - [Vidéo](https://youtu.be/j8WP7aOD_9Q?si=WgMl7fxJNcWkimKN)

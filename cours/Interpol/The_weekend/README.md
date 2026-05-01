@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # The weekend
 
 - [Refrain](The_weekend_refrain.mp4)

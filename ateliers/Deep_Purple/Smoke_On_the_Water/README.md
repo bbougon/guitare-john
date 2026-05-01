@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Smoke On the Water
 - Date de sortie 1972
 - [Vidéo](https://youtu.be/Q2FzZSBD5LE?si=ZSo3r4wsXihCGqmw)

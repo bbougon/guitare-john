@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 ## Comprendre l'ampli
 
 Atelier présenté par Vincent.

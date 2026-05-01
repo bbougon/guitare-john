@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Stage du 11 juillet 2025
 
 - [Routine / échauffement / progression](./routine.md)

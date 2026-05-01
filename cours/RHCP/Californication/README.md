@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Californication
 - **Date de sortie :** Juin 1999 [Wikipedia](https://fr.wikipedia.org/wiki/Californication_(album))
 - [Video](https://www.youtube.com/watch?v=6L0LIo35sF4)

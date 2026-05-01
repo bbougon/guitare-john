@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # System Of A Down
 - Date de sortie 2002
 - [Vidéo](https://youtu.be/rjfr9wNO8Tk?si=dVFSybzLTsyLHgrs)

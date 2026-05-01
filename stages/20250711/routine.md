@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Routine de progression
 Ce programme est conçu pour tous les niveaux et peut être adapté selon les objectifs de chacun sur une structure simple mais efficace :
 

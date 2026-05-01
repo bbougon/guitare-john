@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Are you gonna go my way
 
 - Date de sortie Février 1993

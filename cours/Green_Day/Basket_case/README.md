@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Basket case
 - **Date de sortie :** Août 1994 [Wikipedia](https://fr.wikipedia.org/wiki/Basket_Case)
 - [Video](https://youtu.be/NUTGr5t3MoY)

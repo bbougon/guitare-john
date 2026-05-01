@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Where is my mind
 
 - Date de sortie 21 Mars 1988 ([Wikipedia](https://en.wikipedia.org/wiki/Where_Is_My_Mind%3F))

@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Are you gonna be my girl
 
 - Date de sortie 2003

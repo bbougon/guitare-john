@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Killing in the name
 - **Date de sortie :** 1992 [Wikipedia](https://fr.wikipedia.org/wiki/Killing_in_the_Name)
 - [Vidéo](https://youtu.be/bWXazVhlyxQ?si=regmIwEy2vfzYqw4)

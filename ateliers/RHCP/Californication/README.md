@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Californication
 
 - Date de sortie 8 Juin 1999

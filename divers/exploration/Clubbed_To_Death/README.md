@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Clubbed to death
 
 - **Compositeur :** [Rob Dougan](https://fr.wikipedia.org/wiki/Clubbed_to_Death_(chanson))

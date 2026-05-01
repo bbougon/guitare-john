@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Psycho
 
 - Date de sortie 12 Mars 2015

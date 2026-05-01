@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Everything about you
 
 - [Solo](Everything_about_you_solo.mp4)

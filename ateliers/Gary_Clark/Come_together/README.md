@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Come together (reprise de The Beatles)
 
 - Date de sortie 2017

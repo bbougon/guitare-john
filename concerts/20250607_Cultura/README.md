@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Les concerts des élèves de la John Academy
 
 Pour le concert à venir, on a mis en place un système de vote des chansons en utilisant

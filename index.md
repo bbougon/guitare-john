@@ -1,3 +1,8 @@
+---
+title: Les ateliers de John
+nav_order: 1
+---
+
 # Ateliers de John
 
 ## Les cours

@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Ozzy Osbourne Crazy train
 
 - Date de sortie 1980

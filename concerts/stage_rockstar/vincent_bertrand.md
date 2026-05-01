@@ -1,5 +1,11 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Stage Rockstar Vincent / Bertrand
 
+{: .note }
 **Date :** À définir, 4 ou 13 Juin
 
 | Date  | Horaire | Lieu    | Commentaires       |

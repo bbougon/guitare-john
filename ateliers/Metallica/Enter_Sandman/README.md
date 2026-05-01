@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Enter Sandman
 - Date de sortie 1991
 - [Vidéo](https://youtu.be/CD-E-LDc384?si=MopIs0LZqFXMOBeJ)

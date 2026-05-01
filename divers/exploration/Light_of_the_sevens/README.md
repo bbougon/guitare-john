@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Light of the seven
 
 - **Compositeur :** [Ramin Djawadi](https://fr.wikipedia.org/wiki/Ramin_Djawadi)

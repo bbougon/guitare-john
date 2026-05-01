@@ -1,3 +1,8 @@
+---
+title: Divers
+nav_order: 6
+---
+
 # Divers
 
 - **Exploration :**

@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # House of the Rising Sun (version Shaka Ponk)
 
 - Date de sortie 1964

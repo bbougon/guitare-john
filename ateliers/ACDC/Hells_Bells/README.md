@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Hells Bells
 
 - Date de sortie 25 Juillet 1980

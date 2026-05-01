@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Accords
 
 ## Accords 3 positions

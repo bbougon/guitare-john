@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Concert du 24 Avril 2026
 
 **Horaire :** 20H00 - 21H30

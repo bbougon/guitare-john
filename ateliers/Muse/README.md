@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Muse
 
 - [Psycho](./Psycho/README.md)

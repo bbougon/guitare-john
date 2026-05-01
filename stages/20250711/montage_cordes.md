@@ -1,3 +1,8 @@
+---
+layout: default
+nav_exclude: true
+---
+
 # Montage cordes
 
 Atelier présenté par Thomas
