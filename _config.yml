@@ -1,0 +1,5 @@
+remote_theme: pages-themes/hacker@v0.2.0
+title: Guitare John
+description: Prise de note des cours et concerts
+markdown: kramdown
+highlighter: rouge
