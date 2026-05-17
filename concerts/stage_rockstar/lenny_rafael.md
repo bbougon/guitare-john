@@ -5,7 +5,7 @@ nav_exclude: true
 
 # Stage Rockstar Lenny / Rafael
 
-**Date :** À définir
+**Date :** Jeudi 4 Juin à la Cervoiserie de Floirac
 
 | Date | Horaire | Lieu | Commentaires |
 |------|---------|------|--------------|
@@ -25,3 +25,16 @@ nav_exclude: true
 | Where is my mind         | Pixies                       | - **Lenny :** thème <br /> - **Rafael :** rythmiques rockifiées               | - [Video](https://youtu.be/OJ62RzJkYUo?si=Sz2vSWr65Y9RyKCq) <br /> - [Backing track](https://youtu.be/HTWk-cu1xxg?si=3a1rNMfwi9VIgSFv)                                                                                 |
 
 Les vidéos de John sont disponibles [ici](https://cours-john.ajairu.fr/)
+
+
+## Structures
+### Where is my mind
+
+| Parties   | Structure                                          |
+|-----------|----------------------------------------------------|
+| Intro     | - Accords Lenny <br /> - Thème Rafael              |
+| Couplet   | - Accords Lenny <br /> - Thème Rafael puis accords |
+| Couplet 2 | - Lenny  + Rafael                                  |
+| Pont      | - Lenny  + Rafael                                  |
+| Refrain   | - Accords Lenny  + Thème Rafael                    |
+| Refrain   | - Accords Lenny  + Thème Rafael                    |
