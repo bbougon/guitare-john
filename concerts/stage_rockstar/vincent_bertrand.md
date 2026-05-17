@@ -6,16 +6,15 @@ nav_exclude: true
 # Stage Rockstar Vincent / Bertrand
 
 {: .note }
-**Date :** À définir, 4 ou 13 Juin
+**Date :** Samedi 13 Juin à Montussan
 
-| Date  | Horaire | Lieu    | Commentaires       |
-|-------|---------|---------|--------------------|
-| 29/04 | 18H00   | Cultura |                    |
-| 06/05 | 18H00   | Cultura |                    |
-| 16/05 | 11H00   | Cultura |                    |
-| 30/05 | 11H00   | Cultura |                    |
-| 03/06 | 18H00   | Cultura | Si concert 4 Juin  |
-| 06/06 | 11H00   | Cultura | Si concert 13 Juin |
+| Date  | Horaire | Lieu    | Commentaires |
+|-------|---------|---------|--------------|
+| 29/04 | 18H00   | Cultura |              |
+| 06/05 | 18H00   | Cultura |              |
+| 16/05 | 11H00   | Cultura |              |
+| 30/05 | 11H00   | Cultura |              |
+| 06/06 | 11H00   | Cultura | Générale     |
 
 ## Setlist
 
@@ -92,6 +91,39 @@ gitGraph
     checkout structure
     merge Solo
     commit id: "Refrain  "
+```
+
+### Are you gonna be my girl
+
+```mermaid
+---
+config:
+  logLevel: 'debug'
+  theme: 'base'
+  gitGraph:
+    showBranches: true
+    showCommitLabel: true
+    mainBranchName: 'structure'
+---
+gitGraph
+    commit id: "Intro"
+    commit id: "Couplet"
+    commit id: "Refrain"
+    commit id: "Pont"
+    commit id: "Couplet "
+    commit id: "Refrain "
+    commit id: "Pont "
+    commit id: "Solo Bertrand"
+    branch Solo
+    commit id: "Accords refrain"
+    checkout structure
+    merge Solo
+    commit id: "Solo Vincent"
+    branch Solo2
+    commit id: "Accords refrain "
+    checkout structure
+    merge Solo2
+    commit id: "Fin"
 ```
 
 ## Proposition de travail
