@@ -18,16 +18,16 @@ nav_exclude: true
 
 ## Setlist
 
-| Morceau                  | Artiste           | Liens                                                                                                                                  |
-|--------------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| Born to be wild          | Steppenwolf       | - [Video](https://youtu.be/93fAJe8WVjA?si=D-gslDPFS0TnfiYB) <br /> - [Backing track](https://youtu.be/_ahFAlcvf-Y?si=G2QzDJNH3KXIqM_z) |
-| Everlong                 | Foo Fighters      | - [Video](https://youtu.be/eBG7P-K-r1Y?si=AdWE4GRojho5YT0d) <br /> - [Backing track](https://youtu.be/ekMNpt50yUE?si=BLN4U9WHLxss_Ind) |
-| Are you gonna be my girl | The Jet           | - [Video](https://youtu.be/tuK6n2Lkza0?si=mGptMqvmDcxYlYTt) <br /> - [Backing track](https://youtu.be/H5XzV0d_4qg?si=IEG_AILXu5vSxUKc) |
-| Psycho                   | Muse              | - [Video](https://youtu.be/UqLRqzTp6Rk?si=VpQ4SpVpYm_wwR1L) <br /> - [Backing track](https://youtu.be/G7Fjt8Of4iY?si=a5utdPSLWleUvfSn) |
-| Seven nation army        | The White Stripes | - [Piste trio](./pistes/vincent_bertrand/SEVEN_NATION_ARMY.mp3) <br /> - [Video](./videos/vincent_bertrand/white_stripes_seven_nation_army.mp4)     |
-| Are you gonna go my way  | Lenny Kravitz     | - [Video](https://youtu.be/8LhCd1W2V0Q?si=kwypzBAlmeUmDYg7) <br /> - [Backing track](https://youtu.be/YoYAzY3ozoc?si=4j0sxVEtb2QPIhJh) |
-| I'm Picky                | Shaka Ponk        | - [Video](https://youtu.be/-LVWXQ2F3KI?si=D0P6LezsExnW28hx) <br /> - [Backing track](https://youtu.be/cLj6gXxWR18?si=hcPlTakLlnd_84Av) |
-| Song 2                   | Blur              | - [Piste trio](./pistes/vincent_bertrand/BLUR_SONG_2.mp3) <br /> - [Video](./videos/vincent_bertrand/blur_song_2.mp4)                                                         |
+| Morceau                  | Artiste           | Liens                                                                                                                                           |
+|--------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| Born to be wild          | Steppenwolf       | - [Video](./videos/vincent_bertrand/steppenwolf_born_to_be_wild.mp4)                                                                            |
+| Everlong                 | Foo Fighters      | - [Video](https://youtu.be/eBG7P-K-r1Y?si=AdWE4GRojho5YT0d) <br /> - [Backing track](https://youtu.be/ekMNpt50yUE?si=BLN4U9WHLxss_Ind)          |
+| Are you gonna be my girl | The Jet           | - [Video](./videos/vincent_bertrand/jet_are_you_gonna_be_my_girl.mp4) <br />                                                                    |
+| Psycho                   | Muse              | - [Video](https://youtu.be/UqLRqzTp6Rk?si=VpQ4SpVpYm_wwR1L) <br /> - [Backing track](https://youtu.be/G7Fjt8Of4iY?si=a5utdPSLWleUvfSn)          |
+| Seven nation army        | The White Stripes | - [Piste trio](./pistes/vincent_bertrand/SEVEN_NATION_ARMY.mp3) <br /> - [Video](./videos/vincent_bertrand/white_stripes_seven_nation_army.mp4) |
+| Are you gonna go my way  | Lenny Kravitz     | - [Video](./videos/vincent_bertrand/lenny_kravitz_are_you_gonna_go_my_way.mp4)                                                                  |
+| I'm Picky                | Shaka Ponk        | - [Video](https://youtu.be/-LVWXQ2F3KI?si=D0P6LezsExnW28hx) <br /> - [Backing track](https://youtu.be/cLj6gXxWR18?si=hcPlTakLlnd_84Av)          |
+| Song 2                   | Blur              | - [Piste trio](./pistes/vincent_bertrand/BLUR_SONG_2.mp3) <br /> - [Video](./videos/vincent_bertrand/blur_song_2.mp4)                           |
 
 ## Structures
 
