@@ -21,13 +21,14 @@ nav_exclude: true
 | Morceau                  | Artiste           | Liens                                                                                                                                           |
 |--------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | Born to be wild          | Steppenwolf       | - [Video](./videos/vincent_bertrand/steppenwolf_born_to_be_wild.mp4)                                                                            |
-| Everlong                 | Foo Fighters      | - [Video](https://youtu.be/eBG7P-K-r1Y?si=AdWE4GRojho5YT0d) <br /> - [Backing track](https://youtu.be/ekMNpt50yUE?si=BLN4U9WHLxss_Ind)          |
-| Are you gonna be my girl | The Jet           | - [Video](./videos/vincent_bertrand/jet_are_you_gonna_be_my_girl.mp4) <br />                                                                    |
-| Psycho                   | Muse              | - [Video](https://youtu.be/UqLRqzTp6Rk?si=VpQ4SpVpYm_wwR1L) <br /> - [Backing track](https://youtu.be/G7Fjt8Of4iY?si=a5utdPSLWleUvfSn)          |
-| Seven nation army        | The White Stripes | - [Piste trio](./pistes/vincent_bertrand/SEVEN_NATION_ARMY.mp3) <br /> - [Video](./videos/vincent_bertrand/white_stripes_seven_nation_army.mp4) |
 | Are you gonna go my way  | Lenny Kravitz     | - [Video](./videos/vincent_bertrand/lenny_kravitz_are_you_gonna_go_my_way.mp4)                                                                  |
-| I'm Picky                | Shaka Ponk        | - [Video](https://youtu.be/-LVWXQ2F3KI?si=D0P6LezsExnW28hx) <br /> - [Backing track](https://youtu.be/cLj6gXxWR18?si=hcPlTakLlnd_84Av)          |
+| Are you gonna be my girl | The Jet           | - [Video](./videos/vincent_bertrand/jet_are_you_gonna_be_my_girl.mp4) <br />                                                                    |
+| I'm Picky                | Shaka Ponk        | - [Youtube](https://youtu.be/-LVWXQ2F3KI?si=D0P6LezsExnW28hx) <br /> - [Backing track](https://youtu.be/cLj6gXxWR18?si=hcPlTakLlnd_84Av)        |
+| Psycho                   | Muse              | - [Youtube](https://youtu.be/UqLRqzTp6Rk?si=VpQ4SpVpYm_wwR1L) <br /> - [Backing track](https://youtu.be/G7Fjt8Of4iY?si=a5utdPSLWleUvfSn)        |
+| Everlong                 | Foo Fighters      | - [Youtube](https://youtu.be/eBG7P-K-r1Y?si=AdWE4GRojho5YT0d) <br /> - [Backing track](https://youtu.be/ekMNpt50yUE?si=BLN4U9WHLxss_Ind)        |
 | Song 2                   | Blur              | - [Piste trio](./pistes/vincent_bertrand/BLUR_SONG_2.mp3) <br /> - [Video](./videos/vincent_bertrand/blur_song_2.mp4)                           |
+| Seven nation army        | The White Stripes | - [Piste trio](./pistes/vincent_bertrand/SEVEN_NATION_ARMY.mp3) <br /> - [Video](./videos/vincent_bertrand/white_stripes_seven_nation_army.mp4) |
+
 
 ## Structures
 
