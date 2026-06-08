@@ -18,15 +18,15 @@ nav_exclude: true
 
 ## Setlist
 
-| Morceau                  | Artiste           | Liens                                                                                                                                          |
-|--------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Born to be wild          | Steppenwolf       | - [Video](./videos/vincent_bertrand/steppenwolf_born_to_be_wild.mp4)                                                                           |
-| Are you gonna go my way  | Lenny Kravitz     | - [Video](./videos/vincent_bertrand/lenny_kravitz_are_you_gonna_go_my_way.mp4)                                                                 |
-| Are you gonna be my girl | The Jet           | - [Video](./videos/vincent_bertrand/jet_are_you_gonna_be_my_girl.mp4) <br />                                                                   |
-| I'm Picky                | Shaka Ponk        | - [Video](./videos/vincent_bertrand/shaka_ponk_picky.mp4)                                                                                      |
-| Psycho                   | Muse              | - [Video](./videos/vincent_bertrand/muse_psycho.mp4)                                                                                           |
-| Everlong                 | Foo Fighters      | - [Video](./videos/vincent_bertrand/foo_fighters_everlong.mp4)                                                                                 |
-| Song 2                   | Blur              | - [Piste trio](./pistes/vincent_bertrand/BLUR_SONG_2.mp3) <br /> - [Video](./videos/vincent_bertrand/blur_song_2.mp4)                          |
+| Morceau                  | Artiste           | Liens                                                                                                                                           |
+|--------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| Born to be wild          | Steppenwolf       | - [Piste trio](./pistes/vincent_bertrand/BORN_TO_BE_WILD.mp3) <br /> - [Video](./videos/vincent_bertrand/steppenwolf_born_to_be_wild.mp4)                                                                            |
+| Are you gonna go my way  | Lenny Kravitz     | - [Piste trio](./pistes/vincent_bertrand/ARE_YOU_GONNA_GO_MY_WAY.mp3) <br /> - [Video](./videos/vincent_bertrand/lenny_kravitz_are_you_gonna_go_my_way.mp4)                                                                  |
+| Are you gonna be my girl | The Jet           | - [Piste trio](./pistes/vincent_bertrand/ARE_YOU_GONNA_BE_MY_GIRL.mp3) <br /> - [Video](./videos/vincent_bertrand/jet_are_you_gonna_be_my_girl.mp4) <br />                                                                    |
+| I'm Picky                | Shaka Ponk        | - [Piste trio](./pistes/vincent_bertrand/PICKY_SHAKA_PONK.mp3) <br /> - [Video](./videos/vincent_bertrand/shaka_ponk_picky.mp4)                                                                                       |
+| Psycho                   | Muse              | - [Video](./videos/vincent_bertrand/muse_psycho.mp4)                                                                                            |
+| Everlong                 | Foo Fighters      | - [Piste trio](./pistes/vincent_bertrand/EVERLONG.mp3) <br /> - [Video](./videos/vincent_bertrand/foo_fighters_everlong.mp4)                                                                                  |
+| Song 2                   | Blur              | - [Piste trio](./pistes/vincent_bertrand/BLUR_SONG_2.mp3) <br /> - [Video](./videos/vincent_bertrand/blur_song_2.mp4)                           |
 | Seven nation army        | The White Stripes | - [Piste trio](./pistes/vincent_bertrand/SEVEN_NATION_ARMY.mp3) <br /> - [Video](./videos/vincent_bertrand/white_stripes_seven_nation_army.mp4) |
 
 [Setlist à imprimer](setlist.pdf)
